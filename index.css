@@ -1,0 +1,39 @@
+.header {
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	position: absolute;
+	top: 70px;
+	font-weight: bold;
+	left: 15%;
+}
+
+.text-body {
+	position: absolute;
+	top: 15%;
+	left: 15%;
+	width: 75%;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+
+#generate-button {
+	position: absolute;
+	top: 80%;
+	left: 15%;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 34px;
+	cursor: pointer;
+	border: none;
+	background-color: inherit;
+	font-weight: bold;
+}
+
+button:focus {outline:0;}
+
+
+a {
+	color: inherit;rit;
+	text-decoration: none
+}
