@@ -854,507 +854,507 @@ data = [[
     "whirl",
     "willow"
   ],[
-		"Wal-Mart Stores",
-		"Exxon Mobil",
-		"Chevron",
-		"Berkshire Hathaway",
-		"Apple",
-		"Phillips 66",
-		"General Motors",
-		"Ford Motor",
-		"General Electric",
-		"Valero Energy",
-		"AT&T",
-		"CVS Caremark",
-		"Fannie Mae",
-		"UnitedHealth Group",
-		"McKesson",
-		"Verizon Communications",
-		"Hewlett-Packard",
-		"J.P. Morgan Chase & Co.",
-		"Costco Wholesale",
-		"Express Scripts Holding",
-		"Bank of America",
-		"Cardinal Health",
-		"International Business Machines",
-		"Kroger",
-		"Marathon Petroleum",
-		"Citigroup",
-		"Archer Daniels Midland",
-		"AmerisourceBergen",
-		"Wells Fargo",
-		"Boeing",
-		"Procter & Gamble",
-		"Freddie Mac",
-		"Home Depot",
-		"Microsoft",
-		"Amazon.com",
-		"Target",
-		"Walgreen Co.",
-		"WellPoint",
-		"Johnson & Johnson",
-		"American International Group",
-		"State Farm Insurance Cos.",
-		"MetLife",
-		"PepsiCo",
-		"Comcast",
-		"United Technologies",
-		"Google",
-		"ConocoPhillips",
-		"Dow Chemical",
-		"Caterpillar",
-		"United Parcel Service",
-		"Pfizer",
-		"Lowe’s Companies",
-		"Intel Corporation",
-		"Energy Transfer Equity, L.P.",
-		"Cisco Systems, Inc.",
-		"Enterprise Products Partners L.P.",
-		"Aetna Inc.",
-		"The Coca-Cola Company",
-		"Lockheed Martin Corporation",
-		"Best Buy Co., Inc.",
-		"The Walt Disney Company",
-		"CHS Inc.",
-		"Sysco Corporation",
-		"FedEx Corporation",
-		"Merck & Co., Inc.",
-		"INTL FCStone Inc.",
-		"Safeway Inc.",
-		"Johnson Controls, Inc.",
-		"Ingram Micro Inc.",
-		"Plains GP Holdings, L.P.",
-		"World Fuel Services Corporation",
-		"Prudential Financial, Inc.",
-		"Humana Inc.",
-		"The Goldman Sachs Group, Inc.",
-		"Tesoro Corporation",
-		"Liberty Mutual Holding Company Inc.",
-		"Honeywell International Inc.",
-		"United Continental Holdings, Inc.",
-		"HCA Holdings, Inc.",
-		"Deere & Company",
-		"Delta Air Lines, Inc.",
-		"Oracle Corporation",
-		"Morgan Stanley",
-		"Hess Corporation",
-		"Twenty-First Century Fox, Inc.",
-		"E.I. du Pont de Nemours and Company",
-		"Sears Holdings Corporation",
-		"New York Life Insurance Company",
-		"Mondelez International, Inc.",
-		"American Express Company",
-		"Nationwide Mutual Insurance Co.",
-		"The Allstate Corporation",
-		"Tyson Foods, Inc.",
-		"Supervalu Inc.",
-		"TIAA-CREF",
-		"Massachusetts Mutual Life Insurance Company",
-		"CIGNA Corporation",
-		"DIRECTV",
-		"General Dynamics Corporation",
-		"Philip Morris International Inc.",
-		"3M Company",
-		"Time Warner Inc.",
-		"Halliburton Company",
-		"Publix Super Markets, Inc.",
-		"International Paper Company",
-		"McDonald’s Corporation",
-		"Macy’s, Inc.",
-		"The TJX Companies, Inc.",
-		"Fluor Corporation",
-		"Northwestern Mutual Life Insurance Company,Inc.",
-		"Tech Data Corporation",
-		"American Airlines Group Inc.",
-		"The Hartford Financial Services Group, Inc.",
-		"The Travelers Companies, Inc.",
-		"Nike, Inc.",
-		"Occidental Petroleum Corporation",
-		"Avnet, Inc.",
-		"Rite Aid Corporation",
-		"Exelon Corporation",
-		"Qualcomm Incorporated",
-		"Emerson Electric Co.",
-		"Northrop Grumman Corporation",
-		"Duke Energy Corporation",
-		"Capital One Financial Corporation",
-		"Aflac Incorporated",
-		"Raytheon Company",
-		"Staples, Inc.",
-		"EMC Corporation",
-		"Eli Lilly and Company",
-		"Alcoa Inc.",
-		"National Oilwell Varco, Inc.",
-		"Baker Hughes Incorporated",
-		"US Foods, Inc.",
-		"Time Warner Cable Inc.",
-		"Union Pacific Corporation",
-		"Abbott Laboratories",
-		"Xerox Corporation",
-		"Arrow Electronics, Inc",
-		"Kimberly-Clark Corporation",
-		"U.S. Bancorp",
-		"United Services Automobile Association",
-		"Freeport-McMoRan Copper & Gold Inc.",
-		"Icahn Enterprises L.P.",
-		"ManpowerGroup Inc.",
-		"HollyFrontier Corporation",
-		"Global Partners LP",
-		"The Goodyear Tire & Rubber Company",
-		"PBF Energy Inc.",
-		"Danaher Corporation",
-		"Nucor Corporation",
-		"Kohl’s Corporation",
-		"AbbVie Inc.",
-		"Whirlpool Corporation",
-		"Amgen Inc.",
-		"Jabil Circuit, Inc.",
-		"Kraft Foods Group, Inc.",
-		"The Progressive Corporation",
-		"CenturyLink, Inc.",
-		"General Mills, Inc.",
-		"Southwest Airlines Co.",
-		"Altria Group, Inc.",
-		"AutoNation, Inc.",
-		"Chesapeake Energy Corporation",
-		"Dollar General Corporation",
-		"TRW Automotive Holdings Corp.",
-		"United States Steel Corporation",
-		"Colgate-Palmolive Company",
-		"Cummins Inc.",
-		"PACCAR Inc",
-		"The Southern Company",
-		"Illinois Tool Works Inc.",
-		"The PNC Financial Services Group, Inc.",
-		"Medtronic, Inc.",
-		"The AES Corporation",
-		"Murphy USA Inc.",
-		"Bristol-Myers Squibb Company",
-		"Lear Corporation",
-		"The Gap, Inc.",
-		"Apache Corporation",
-		"eBay Inc.",
-		"The Bank of New York Mellon Corporation",
-		"CBS Corporation",
-		"PG&E Corporation",
-		"ConAgra Foods, Inc.",
-		"Computer Sciences Corporation",
-		"American Electric Power Company, Inc.",
-		"Western Digital Corporation",
-		"Marathon Oil Corporation",
-		"Baxter International Inc.",
-		"PPG Industries, Inc.",
-		"NextEra Energy, Inc.",
-		"Community Health Systems, Inc.",
-		"Loews Corporation",
-		"Penske Automotive Group, Inc.",
-		"FirstEnergy Corp.",
-		"Starbucks Corporation",
-		"Monsanto Company",
-		"Kellogg Company",
-		"Land O’Lakes, Inc.",
-		"ONEOK, Inc.",
-		"Omnicom Group Inc.",
-		"Anadarko Petroleum Corporation",
-		"EOG Resources, Inc.",
-		"DISH Network Corporation",
-		"Genuine Parts Company",
-		"Kinder Morgan, Inc.",
-		"Waste Management, Inc.",
-		"The Chubb Corporation",
-		"Aramark Holdings Corporation",
-		"Viacom Inc.",
-		"Las Vegas Sands Corp.",
-		"Dominion Resources, Inc.",
-		"Ecolab Inc.",
-		"Smithfield Foods, Inc.",
-		"Thermo Fisher Scientific Inc.",
-		"Yum! Brands, Inc.",
-		"Parker-Hannifin Corporation",
-		"Whole Foods Market, Inc.",
-		"Marriott International, Inc.",
-		"C. H. Robinson Worldwide, Inc.",
-		"L-3 Communications Holdings, Inc.",
-		"Edison International",
-		"Toys “R” Us, Inc.",
-		"Nordstrom, Inc.",
-		"Consolidated Edison, Inc.",
-		"Marsh & McLennan Companies, Inc.",
-		"Texas Instruments Incorporated",
-		"Textron Inc.",
-		"Tenet Healthcare Corporation",
-		"DaVita HealthCare Partners Inc.",
-		"CSX Corporation",
-		"Lincoln National Corporation",
-		"Praxair, Inc.",
-		"PPL Corporation",
-		"J.C. Penney Company, Inc.",
-		"Peter Kiewit Sons’, Inc.",
-		"Jacobs Engineering Group Inc.",
-		"Visa Inc.",
-		"H.J. Heinz Company",
-		"CarMax, Inc.",
-		"V.F. Corporation",
-		"Entergy Corporation",
-		"Automatic Data Processing, Inc.",
-		"NRG Energy, Inc.",
-		"Guardian Life Ins. Co. of America",
-		"Liberty Interactive Corporation",
-		"Norfolk Southern Corporation",
-		"Office Depot, Inc.",
-		"Ameriprise Financial, Inc.",
-		"Gilead Sciences, Inc.",
-		"Centene Corporation",
-		"Leucadia National Corporation",
-		"Huntsman Corporation",
-		"Health Net, Inc.",
-		"Stanley Black & Decker, Inc.",
-		"URS Corporation",
-		"Xcel Energy Inc.",
-		"Bed Bath & Beyond Inc.",
-		"Navistar International Corporation",
-		"Synnex Corporation",
-		"First Data Corporation",
-		"AGCO Corporation",
-		"L Brands, Inc.",
-		"Hertz Global Holdings, Inc.",
-		"CDW Corporation",
-		"CST Brands, Inc.",
-		"Sempra Energy",
-		"R.R. Donnelley & Sons Company",
-		"BB&T Corporation",
-		"Devon Energy Corporation",
-		"Family Dollar Stores, Inc.",
-		"Unum Group",
-		"Ally Financial Inc.",
-		"Reinsurance Group of America, Incorporated",
-		"State Street Corporation",
-		"Air Products & Chemicals, Inc.",
-		"Ross Stores, Inc.",
-		"The Sherwin-Williams Company",
-		"The Estée Lauder Companies Inc.",
-		"BlackRock, Inc.",
-		"Western Refining, Inc.",
-		"Avon Products, Inc.",
-		"The Mosaic Company",
-		"Public Service Enterprise Group Incorporated",
-		"Dean Foods Company",
-		"Cameron International Corporation",
-		"MGM Resorts International",
-		"KKR & Co. L.P.",
-		"Hilton Worldwide Holdings Inc.",
-		"DTE Energy Company",
-		"Genworth Financial, Inc.",
-		"Henry Schein, Inc.",
-		"Rock-Tenn Company",
-		"WellCare Health Plans, Inc.",
-		"W.W. Grainger, Inc.",
-		"Discover Financial Services",
-		"Eastman Chemical Company",
-		"Principal Financial Group, Inc.",
-		"Reliance Steel & Aluminum Co.",
-		"AutoZone, Inc.",
-		"Dover Corporation",
-		"Micron Technology, Inc.",
-		"Owens & Minor, Inc.",
-		"Assurant, Inc.",
-		"GameStop Corp.",
-		"Stryker Corporation",
-		"Group 1 Automotive, Inc.",
-		"Cognizant Technology Solutions Corporation",
-		"Sonic Automotive, Inc.",
-		"Autoliv, Inc.",
-		"Hormel Foods Corporation",
-		"Motorola Solutions, Inc.",
-		"Crown Holdings, Inc.",
-		"SunTrust Banks, Inc.",
-		"Campbell Soup Company",
-		"Fidelity National Financial, Inc.",
-		"HD Supply Holdings, Inc.",
-		"Caesars Entertainment Corporation",
-		"Darden Restaurants, Inc.",
-		"Weyerhaeuser Company",
-		"Ball Corporation",
-		"Precision Castparts Corp.",
-		"Masco Corporation",
-		"Universal Health Services, Inc.",
-		"Republic Services, Inc.",
-		"MasterCard Incorporated",
-		"Newmont Mining Corporation",
-		"Broadcom Corporation",
-		"Reynolds American Inc.",
-		"PVH Corp.",
-		"Charter Communications, Inc.",
-		"AECOM Technology Corporation",
-		"CenterPoint Energy, Inc.",
-		"Pacific Life",
-		"Thrivent Financial for Lutherans",
-		"Becton, Dickinson and Company",
-		"Franklin Resources, Inc.",
-		"Tenneco Inc.",
-		"TravelCenters of America LLC",
-		"Avis Budget Group, Inc.",
-		"Facebook, Inc.",
-		"Dollar Tree, Inc.",
-		"Corning Incorporated",
-		"Ashland Inc.",
-		"Sealed Air Corporation",
-		"Core-Mark Holding Company, Inc.",
-		"Oshkosh Corporation",
-		"Coca-Cola Enterprises, Inc.",
-		"WESCO International, Inc.",
-		"Applied Materials, Inc.",
-		"Visteon Corporation",
-		"BorgWarner Inc.",
-		"Spectrum Group International, Inc.",
-		"Oaktree Capital Group, LLC",
-		"Steel Dynamics, Inc.",
-		"Jarden Corporation",
-		"Mohawk Industries, Inc.",
-		"Terex Corporation",
-		"Northeast Utilities",
-		"KBR, Inc.",
-		"Fifth Third Bancorp",
-		"UGI Corporation",
-		"CBRE Group, Inc.",
-		"Quest Diagnostics Incorporated",
-		"Peabody Energy Corporation",
-		"The Hershey Company",
-		"Boston Scientific Corporation",
-		"FMC Technologies, Inc.",
-		"The Interpublic Group of Companies, Inc.",
-		"Commercial Metals Company",
-		"The Pantry, Inc.",
-		"Owens-Illinois, Inc.",
-		"American Family Ins. Group",
-		"Ralph Lauren Corporation",
-		"Biogen Idec Inc.",
-		"PetSmart, Inc.",
-		"Mylan Inc.",
-		"Symantec Corporation",
-		"Ameren Corporation",
-		"The Williams Companies, Inc.",
-		"Barnes & Noble, Inc.",
-		"Huntington Ingalls Industries, Inc.",
-		"The Priceline Group Inc.",
-		"Agilent Technologies, Inc.",
-		"Dana Holding Corporation",
-		"Dillard’s, Inc.",
-		"Seaboard Corporation",
-		"Vanguard Health Systems, Inc.",
-		"Casey’s General Stores, Inc.",
-		"O’Reilly Automotive, Inc.",
-		"The Blackstone Group L.P.",
-		"Mutual of Omaha Insurance Company",
-		"Molina Healthcare, Inc.",
-		"CMS Energy Corporation",
-		"Targa Resources Corp.",
-		"Quanta Services, Inc.",
-		"Cablevision Systems Corporation",
-		"Avery Dennison Corporation",
-		"Celanese Corporation",
-		"Foot Locker, Inc.",
-		"Celgene Corporation",
-		"Advance Auto Parts, Inc.",
-		"Mattel, Inc.",
-		"Live Nation Entertainment, Inc.",
-		"General Cable Corporation",
-		"Ryder System, Inc.",
-		"EMCOR Group, Inc.",
-		"Allergan, Inc.",
-		"W.R. Berkley Corporation",
-		"Rockwell Automation, Inc.",
-		"NetApp, Inc.",
-		"Ingredion Incorporated",
-		"Level 3 Communications, Inc.",
-		"Calpine Corporation",
-		"Omnicare, Inc.",
-		"Erie Insurance Group",
-		"SLM Corporation",
-		"D.R. Horton, Inc.",
-		"CC Media Holdings, Inc.",
-		"Anixter International Inc.",
-		"Dick’s Sporting Goods, Inc.",
-		"SanDisk Corporation",
-		"NCR Corporation",
-		"Starwood Hotels & Resorts Worldwide, Inc.",
-		"Expeditors International of Washington, Inc.",
-		"Fidelity National Information Services, Inc.",
-		"United Natural Foods, Inc.",
-		"Auto-Owners Insurance Group",
-		"Windstream Holdings, Inc.",
-		"Dr Pepper Snapple Group, Inc.",
-		"Lennar Corporation",
-		"Sanmina",
-		"Harley-Davidson, Inc.",
-		"CONSOL Energy Inc.",
-		"The J.M. Smucker Company",
-		"Newell Rubbermaid Inc.",
-		"CH2M HILL Companies, Ltd.",
-		"Energy Future Holdings Corp.",
-		"Susser Holdings Corporation",
-		"Laboratory Corporation of America Holdings",
-		"Kindred Healthcare, Inc.",
-		"Leidos Holdings Inc.",
-		"Booz Allen Hamilton Holding Corp.",
-		"The Jones Financial Companies,L.L.L.P.",
-		"Cliffs Natural Resources Inc.",
-		"PulteGroup, Inc.",
-		"Regions Financial Corporation",
-		"NiSource Inc.",
-		"Graybar Electric Company, Inc.",
-		"Integrys Energy Group, Inc.",
-		"The Clorox Company",
-		"Wynn Resorts, Limited",
-		"The Andersons, Inc.",
-		"J.B. Hunt Transport Services, Inc.",
-		"AK Steel Holding Corporation",
-		"Harbinger Group Inc.",
-		"MeadWestvaco Corporation",
-		"The Western Union Company",
-		"The Charles Schwab Corporation",
-		"Discovery Communications, Inc.",
-		"Spectra Energy Corp",
-		"St. Jude Medical, Inc.",
-		"CF Industries Holdings, Inc.",
-		"Con-way Inc.",
-		"Old Republic International Corporation",
-		"JetBlue Airways Corporation",
-		"Calumet Specialty Products Partners, L.P.",
-		"Kelly Services, Inc.",
-		"Domtar Corporation",
-		"Murphy Oil Corporation",
-		"Harris Corporation",
-		"Asbury Automotive Group, Inc.",
-		"Big Lots, Inc.",
-		"Advanced Micro Devices, Inc.",
-		"Owens Corning",
-		"Realogy Holdings Corp.",
-		"Host Hotels & Resorts, Inc.",
-		"MRC Global Inc.",
-		"Simon Property Group, Inc.",
-		"Tractor Supply Company",
-		"Gannett Co., Inc.",
-		"Alaska Air Group, Inc.",
-		"Insight Enterprises, Inc.",
-		"McGraw Hill Financial, Inc.",
-		"Buckeye Partners, L.P.",
-		"Quintiles Transnational Holdings Inc.",
-		"American Financial Group, Inc.",
-		"United Stationers Inc.",
-		"Coach, Inc.",
-		"LKQ Corporation",
-		"Noble Energy, Inc.",
-		"Bemis Company, Inc.",
-		"Joy Global Inc.",
-		"Wyndham Worldwide Corporation",
-		"NII Holdings, Inc.",
-		"Lorillard, Inc.",
-		"Alleghany Corporation",
-		"Airgas, Inc.",
-		"First American Financial Corporation",
-		"United Rentals, Inc."
-	],[
+        "Wal-Mart Stores",
+        "Exxon Mobil",
+        "Chevron",
+        "Berkshire Hathaway",
+        "Apple",
+        "Phillips 66",
+        "General Motors",
+        "Ford Motor",
+        "General Electric",
+        "Valero Energy",
+        "AT&T",
+        "CVS Caremark",
+        "Fannie Mae",
+        "UnitedHealth Group",
+        "McKesson",
+        "Verizon Communications",
+        "Hewlett-Packard",
+        "J.P. Morgan Chase & Co.",
+        "Costco Wholesale",
+        "Express Scripts Holding",
+        "Bank of America",
+        "Cardinal Health",
+        "International Business Machines",
+        "Kroger",
+        "Marathon Petroleum",
+        "Citigroup",
+        "Archer Daniels Midland",
+        "AmerisourceBergen",
+        "Wells Fargo",
+        "Boeing",
+        "Procter & Gamble",
+        "Freddie Mac",
+        "Home Depot",
+        "Microsoft",
+        "Amazon.com",
+        "Target",
+        "Walgreen Co.",
+        "WellPoint",
+        "Johnson & Johnson",
+        "American International Group",
+        "State Farm Insurance Cos.",
+        "MetLife",
+        "PepsiCo",
+        "Comcast",
+        "United Technologies",
+        "Google",
+        "ConocoPhillips",
+        "Dow Chemical",
+        "Caterpillar",
+        "United Parcel Service",
+        "Pfizer",
+        "Lowe’s Companies",
+        "Intel Corporation",
+        "Energy Transfer Equity, L.P.",
+        "Cisco Systems, Inc.",
+        "Enterprise Products Partners L.P.",
+        "Aetna Inc.",
+        "The Coca-Cola Company",
+        "Lockheed Martin Corporation",
+        "Best Buy Co., Inc.",
+        "The Walt Disney Company",
+        "CHS Inc.",
+        "Sysco Corporation",
+        "FedEx Corporation",
+        "Merck & Co., Inc.",
+        "INTL FCStone Inc.",
+        "Safeway Inc.",
+        "Johnson Controls, Inc.",
+        "Ingram Micro Inc.",
+        "Plains GP Holdings, L.P.",
+        "World Fuel Services Corporation",
+        "Prudential Financial, Inc.",
+        "Humana Inc.",
+        "The Goldman Sachs Group, Inc.",
+        "Tesoro Corporation",
+        "Liberty Mutual Holding Company Inc.",
+        "Honeywell International Inc.",
+        "United Continental Holdings, Inc.",
+        "HCA Holdings, Inc.",
+        "Deere & Company",
+        "Delta Air Lines, Inc.",
+        "Oracle Corporation",
+        "Morgan Stanley",
+        "Hess Corporation",
+        "Twenty-First Century Fox, Inc.",
+        "E.I. du Pont de Nemours and Company",
+        "Sears Holdings Corporation",
+        "New York Life Insurance Company",
+        "Mondelez International, Inc.",
+        "American Express Company",
+        "Nationwide Mutual Insurance Co.",
+        "The Allstate Corporation",
+        "Tyson Foods, Inc.",
+        "Supervalu Inc.",
+        "TIAA-CREF",
+        "Massachusetts Mutual Life Insurance Company",
+        "CIGNA Corporation",
+        "DIRECTV",
+        "General Dynamics Corporation",
+        "Philip Morris International Inc.",
+        "3M Company",
+        "Time Warner Inc.",
+        "Halliburton Company",
+        "Publix Super Markets, Inc.",
+        "International Paper Company",
+        "McDonald’s Corporation",
+        "Macy’s, Inc.",
+        "The TJX Companies, Inc.",
+        "Fluor Corporation",
+        "Northwestern Mutual Life Insurance Company,Inc.",
+        "Tech Data Corporation",
+        "American Airlines Group Inc.",
+        "The Hartford Financial Services Group, Inc.",
+        "The Travelers Companies, Inc.",
+        "Nike, Inc.",
+        "Occidental Petroleum Corporation",
+        "Avnet, Inc.",
+        "Rite Aid Corporation",
+        "Exelon Corporation",
+        "Qualcomm Incorporated",
+        "Emerson Electric Co.",
+        "Northrop Grumman Corporation",
+        "Duke Energy Corporation",
+        "Capital One Financial Corporation",
+        "Aflac Incorporated",
+        "Raytheon Company",
+        "Staples, Inc.",
+        "EMC Corporation",
+        "Eli Lilly and Company",
+        "Alcoa Inc.",
+        "National Oilwell Varco, Inc.",
+        "Baker Hughes Incorporated",
+        "US Foods, Inc.",
+        "Time Warner Cable Inc.",
+        "Union Pacific Corporation",
+        "Abbott Laboratories",
+        "Xerox Corporation",
+        "Arrow Electronics, Inc",
+        "Kimberly-Clark Corporation",
+        "U.S. Bancorp",
+        "United Services Automobile Association",
+        "Freeport-McMoRan Copper & Gold Inc.",
+        "Icahn Enterprises L.P.",
+        "ManpowerGroup Inc.",
+        "HollyFrontier Corporation",
+        "Global Partners LP",
+        "The Goodyear Tire & Rubber Company",
+        "PBF Energy Inc.",
+        "Danaher Corporation",
+        "Nucor Corporation",
+        "Kohl’s Corporation",
+        "AbbVie Inc.",
+        "Whirlpool Corporation",
+        "Amgen Inc.",
+        "Jabil Circuit, Inc.",
+        "Kraft Foods Group, Inc.",
+        "The Progressive Corporation",
+        "CenturyLink, Inc.",
+        "General Mills, Inc.",
+        "Southwest Airlines Co.",
+        "Altria Group, Inc.",
+        "AutoNation, Inc.",
+        "Chesapeake Energy Corporation",
+        "Dollar General Corporation",
+        "TRW Automotive Holdings Corp.",
+        "United States Steel Corporation",
+        "Colgate-Palmolive Company",
+        "Cummins Inc.",
+        "PACCAR Inc",
+        "The Southern Company",
+        "Illinois Tool Works Inc.",
+        "The PNC Financial Services Group, Inc.",
+        "Medtronic, Inc.",
+        "The AES Corporation",
+        "Murphy USA Inc.",
+        "Bristol-Myers Squibb Company",
+        "Lear Corporation",
+        "The Gap, Inc.",
+        "Apache Corporation",
+        "eBay Inc.",
+        "The Bank of New York Mellon Corporation",
+        "CBS Corporation",
+        "PG&E Corporation",
+        "ConAgra Foods, Inc.",
+        "Computer Sciences Corporation",
+        "American Electric Power Company, Inc.",
+        "Western Digital Corporation",
+        "Marathon Oil Corporation",
+        "Baxter International Inc.",
+        "PPG Industries, Inc.",
+        "NextEra Energy, Inc.",
+        "Community Health Systems, Inc.",
+        "Loews Corporation",
+        "Penske Automotive Group, Inc.",
+        "FirstEnergy Corp.",
+        "Starbucks Corporation",
+        "Monsanto Company",
+        "Kellogg Company",
+        "Land O’Lakes, Inc.",
+        "ONEOK, Inc.",
+        "Omnicom Group Inc.",
+        "Anadarko Petroleum Corporation",
+        "EOG Resources, Inc.",
+        "DISH Network Corporation",
+        "Genuine Parts Company",
+        "Kinder Morgan, Inc.",
+        "Waste Management, Inc.",
+        "The Chubb Corporation",
+        "Aramark Holdings Corporation",
+        "Viacom Inc.",
+        "Las Vegas Sands Corp.",
+        "Dominion Resources, Inc.",
+        "Ecolab Inc.",
+        "Smithfield Foods, Inc.",
+        "Thermo Fisher Scientific Inc.",
+        "Yum! Brands, Inc.",
+        "Parker-Hannifin Corporation",
+        "Whole Foods Market, Inc.",
+        "Marriott International, Inc.",
+        "C. H. Robinson Worldwide, Inc.",
+        "L-3 Communications Holdings, Inc.",
+        "Edison International",
+        "Toys “R” Us, Inc.",
+        "Nordstrom, Inc.",
+        "Consolidated Edison, Inc.",
+        "Marsh & McLennan Companies, Inc.",
+        "Texas Instruments Incorporated",
+        "Textron Inc.",
+        "Tenet Healthcare Corporation",
+        "DaVita HealthCare Partners Inc.",
+        "CSX Corporation",
+        "Lincoln National Corporation",
+        "Praxair, Inc.",
+        "PPL Corporation",
+        "J.C. Penney Company, Inc.",
+        "Peter Kiewit Sons’, Inc.",
+        "Jacobs Engineering Group Inc.",
+        "Visa Inc.",
+        "H.J. Heinz Company",
+        "CarMax, Inc.",
+        "V.F. Corporation",
+        "Entergy Corporation",
+        "Automatic Data Processing, Inc.",
+        "NRG Energy, Inc.",
+        "Guardian Life Ins. Co. of America",
+        "Liberty Interactive Corporation",
+        "Norfolk Southern Corporation",
+        "Office Depot, Inc.",
+        "Ameriprise Financial, Inc.",
+        "Gilead Sciences, Inc.",
+        "Centene Corporation",
+        "Leucadia National Corporation",
+        "Huntsman Corporation",
+        "Health Net, Inc.",
+        "Stanley Black & Decker, Inc.",
+        "URS Corporation",
+        "Xcel Energy Inc.",
+        "Bed Bath & Beyond Inc.",
+        "Navistar International Corporation",
+        "Synnex Corporation",
+        "First Data Corporation",
+        "AGCO Corporation",
+        "L Brands, Inc.",
+        "Hertz Global Holdings, Inc.",
+        "CDW Corporation",
+        "CST Brands, Inc.",
+        "Sempra Energy",
+        "R.R. Donnelley & Sons Company",
+        "BB&T Corporation",
+        "Devon Energy Corporation",
+        "Family Dollar Stores, Inc.",
+        "Unum Group",
+        "Ally Financial Inc.",
+        "Reinsurance Group of America, Incorporated",
+        "State Street Corporation",
+        "Air Products & Chemicals, Inc.",
+        "Ross Stores, Inc.",
+        "The Sherwin-Williams Company",
+        "The Estée Lauder Companies Inc.",
+        "BlackRock, Inc.",
+        "Western Refining, Inc.",
+        "Avon Products, Inc.",
+        "The Mosaic Company",
+        "Public Service Enterprise Group Incorporated",
+        "Dean Foods Company",
+        "Cameron International Corporation",
+        "MGM Resorts International",
+        "KKR & Co. L.P.",
+        "Hilton Worldwide Holdings Inc.",
+        "DTE Energy Company",
+        "Genworth Financial, Inc.",
+        "Henry Schein, Inc.",
+        "Rock-Tenn Company",
+        "WellCare Health Plans, Inc.",
+        "W.W. Grainger, Inc.",
+        "Discover Financial Services",
+        "Eastman Chemical Company",
+        "Principal Financial Group, Inc.",
+        "Reliance Steel & Aluminum Co.",
+        "AutoZone, Inc.",
+        "Dover Corporation",
+        "Micron Technology, Inc.",
+        "Owens & Minor, Inc.",
+        "Assurant, Inc.",
+        "GameStop Corp.",
+        "Stryker Corporation",
+        "Group 1 Automotive, Inc.",
+        "Cognizant Technology Solutions Corporation",
+        "Sonic Automotive, Inc.",
+        "Autoliv, Inc.",
+        "Hormel Foods Corporation",
+        "Motorola Solutions, Inc.",
+        "Crown Holdings, Inc.",
+        "SunTrust Banks, Inc.",
+        "Campbell Soup Company",
+        "Fidelity National Financial, Inc.",
+        "HD Supply Holdings, Inc.",
+        "Caesars Entertainment Corporation",
+        "Darden Restaurants, Inc.",
+        "Weyerhaeuser Company",
+        "Ball Corporation",
+        "Precision Castparts Corp.",
+        "Masco Corporation",
+        "Universal Health Services, Inc.",
+        "Republic Services, Inc.",
+        "MasterCard Incorporated",
+        "Newmont Mining Corporation",
+        "Broadcom Corporation",
+        "Reynolds American Inc.",
+        "PVH Corp.",
+        "Charter Communications, Inc.",
+        "AECOM Technology Corporation",
+        "CenterPoint Energy, Inc.",
+        "Pacific Life",
+        "Thrivent Financial for Lutherans",
+        "Becton, Dickinson and Company",
+        "Franklin Resources, Inc.",
+        "Tenneco Inc.",
+        "TravelCenters of America LLC",
+        "Avis Budget Group, Inc.",
+        "Facebook, Inc.",
+        "Dollar Tree, Inc.",
+        "Corning Incorporated",
+        "Ashland Inc.",
+        "Sealed Air Corporation",
+        "Core-Mark Holding Company, Inc.",
+        "Oshkosh Corporation",
+        "Coca-Cola Enterprises, Inc.",
+        "WESCO International, Inc.",
+        "Applied Materials, Inc.",
+        "Visteon Corporation",
+        "BorgWarner Inc.",
+        "Spectrum Group International, Inc.",
+        "Oaktree Capital Group, LLC",
+        "Steel Dynamics, Inc.",
+        "Jarden Corporation",
+        "Mohawk Industries, Inc.",
+        "Terex Corporation",
+        "Northeast Utilities",
+        "KBR, Inc.",
+        "Fifth Third Bancorp",
+        "UGI Corporation",
+        "CBRE Group, Inc.",
+        "Quest Diagnostics Incorporated",
+        "Peabody Energy Corporation",
+        "The Hershey Company",
+        "Boston Scientific Corporation",
+        "FMC Technologies, Inc.",
+        "The Interpublic Group of Companies, Inc.",
+        "Commercial Metals Company",
+        "The Pantry, Inc.",
+        "Owens-Illinois, Inc.",
+        "American Family Ins. Group",
+        "Ralph Lauren Corporation",
+        "Biogen Idec Inc.",
+        "PetSmart, Inc.",
+        "Mylan Inc.",
+        "Symantec Corporation",
+        "Ameren Corporation",
+        "The Williams Companies, Inc.",
+        "Barnes & Noble, Inc.",
+        "Huntington Ingalls Industries, Inc.",
+        "The Priceline Group Inc.",
+        "Agilent Technologies, Inc.",
+        "Dana Holding Corporation",
+        "Dillard’s, Inc.",
+        "Seaboard Corporation",
+        "Vanguard Health Systems, Inc.",
+        "Casey’s General Stores, Inc.",
+        "O’Reilly Automotive, Inc.",
+        "The Blackstone Group L.P.",
+        "Mutual of Omaha Insurance Company",
+        "Molina Healthcare, Inc.",
+        "CMS Energy Corporation",
+        "Targa Resources Corp.",
+        "Quanta Services, Inc.",
+        "Cablevision Systems Corporation",
+        "Avery Dennison Corporation",
+        "Celanese Corporation",
+        "Foot Locker, Inc.",
+        "Celgene Corporation",
+        "Advance Auto Parts, Inc.",
+        "Mattel, Inc.",
+        "Live Nation Entertainment, Inc.",
+        "General Cable Corporation",
+        "Ryder System, Inc.",
+        "EMCOR Group, Inc.",
+        "Allergan, Inc.",
+        "W.R. Berkley Corporation",
+        "Rockwell Automation, Inc.",
+        "NetApp, Inc.",
+        "Ingredion Incorporated",
+        "Level 3 Communications, Inc.",
+        "Calpine Corporation",
+        "Omnicare, Inc.",
+        "Erie Insurance Group",
+        "SLM Corporation",
+        "D.R. Horton, Inc.",
+        "CC Media Holdings, Inc.",
+        "Anixter International Inc.",
+        "Dick’s Sporting Goods, Inc.",
+        "SanDisk Corporation",
+        "NCR Corporation",
+        "Starwood Hotels & Resorts Worldwide, Inc.",
+        "Expeditors International of Washington, Inc.",
+        "Fidelity National Information Services, Inc.",
+        "United Natural Foods, Inc.",
+        "Auto-Owners Insurance Group",
+        "Windstream Holdings, Inc.",
+        "Dr Pepper Snapple Group, Inc.",
+        "Lennar Corporation",
+        "Sanmina",
+        "Harley-Davidson, Inc.",
+        "CONSOL Energy Inc.",
+        "The J.M. Smucker Company",
+        "Newell Rubbermaid Inc.",
+        "CH2M HILL Companies, Ltd.",
+        "Energy Future Holdings Corp.",
+        "Susser Holdings Corporation",
+        "Laboratory Corporation of America Holdings",
+        "Kindred Healthcare, Inc.",
+        "Leidos Holdings Inc.",
+        "Booz Allen Hamilton Holding Corp.",
+        "The Jones Financial Companies,L.L.L.P.",
+        "Cliffs Natural Resources Inc.",
+        "PulteGroup, Inc.",
+        "Regions Financial Corporation",
+        "NiSource Inc.",
+        "Graybar Electric Company, Inc.",
+        "Integrys Energy Group, Inc.",
+        "The Clorox Company",
+        "Wynn Resorts, Limited",
+        "The Andersons, Inc.",
+        "J.B. Hunt Transport Services, Inc.",
+        "AK Steel Holding Corporation",
+        "Harbinger Group Inc.",
+        "MeadWestvaco Corporation",
+        "The Western Union Company",
+        "The Charles Schwab Corporation",
+        "Discovery Communications, Inc.",
+        "Spectra Energy Corp",
+        "St. Jude Medical, Inc.",
+        "CF Industries Holdings, Inc.",
+        "Con-way Inc.",
+        "Old Republic International Corporation",
+        "JetBlue Airways Corporation",
+        "Calumet Specialty Products Partners, L.P.",
+        "Kelly Services, Inc.",
+        "Domtar Corporation",
+        "Murphy Oil Corporation",
+        "Harris Corporation",
+        "Asbury Automotive Group, Inc.",
+        "Big Lots, Inc.",
+        "Advanced Micro Devices, Inc.",
+        "Owens Corning",
+        "Realogy Holdings Corp.",
+        "Host Hotels & Resorts, Inc.",
+        "MRC Global Inc.",
+        "Simon Property Group, Inc.",
+        "Tractor Supply Company",
+        "Gannett Co., Inc.",
+        "Alaska Air Group, Inc.",
+        "Insight Enterprises, Inc.",
+        "McGraw Hill Financial, Inc.",
+        "Buckeye Partners, L.P.",
+        "Quintiles Transnational Holdings Inc.",
+        "American Financial Group, Inc.",
+        "United Stationers Inc.",
+        "Coach, Inc.",
+        "LKQ Corporation",
+        "Noble Energy, Inc.",
+        "Bemis Company, Inc.",
+        "Joy Global Inc.",
+        "Wyndham Worldwide Corporation",
+        "NII Holdings, Inc.",
+        "Lorillard, Inc.",
+        "Alleghany Corporation",
+        "Airgas, Inc.",
+        "First American Financial Corporation",
+        "United Rentals, Inc."
+    ],[
         "apple",
         "apricot",
         "avocado",
@@ -1437,522 +1437,522 @@ data = [[
         "ugli fruit",
         "watermelon"
     ],[
-		"2-step",
-		"4-beat",
-		"Acid breaks",
-		"Acid house",
-		"Acid jazz",
-		"Acid rock",
-		"Acid techno",
-		"Acid trance",
-		"Aggrotech",
-		"Alternative dance",
-		"Alternative metal",
-		"Alternative rock",
-		"Ambient dub",
-		"Ambient house",
-		"Ambient techno",
-		"Ambient",
-		"Anarcho punk",
-		"Anti-folk",
-		"Art punk",
-		"Art rock",
-		"Asian Underground",
-		"Avant-garde jazz",
-		"Baggy",
-		"Balearic Beat",
-		"Baltimore Club",
-		"Bassline",
-		"Beat music",
-		"Bebop",
-		"Big beat",
-		"Bitpop",
-		"Black metal",
-		"Boogie-woogie",
-		"Boogie",
-		"Bossa nova",
-		"Bouncy house",
-		"Bouncy techno",
-		"Breakbeat hardcore",
-		"Breakbeat",
-		"Breakcore",
-		"Breakstep",
-		"British dance",
-		"Britpop",
-		"Broken beat",
-		"Bubblegum dance",
-		"Canterbury scene",
-		"Cape jazz",
-		"Celtic metal",
-		"Celtic punk",
-		"Celtic",
-		"Chamber jazz",
-		"Chicago house",
-		"Chill out",
-		"Chillwave",
-		"Chinese rock",
-		"Chiptune",
-		"Christian metal",
-		"Christian punk",
-		"Christian rock",
-		"Classic trance",
-		"Coldwave",
-		"Contemporary folk",
-		"Continental Jazz",
-		"Cool jazz",
-		"Cosmic disco",
-		"Cowpunk",
-		"Crossover jazz",
-		"Crossover thrash",
-		"Crunk",
-		"Crust punk",
-		"Crustgrind",
-		"Cybergrind",
-		"D-beat",
-		"Dance-pop",
-		"Dance-punk",
-		"Dance-rock",
-		"Dark ambient",
-		"Dark cabaret",
-		"Dark electro",
-		"Dark psytrance",
-		"Dark Wave",
-		"Darkcore",
-		"Darkside jungle",
-		"Darkstep",
-		"Death industrial",
-		"Death metal",
-		"Deathcore",
-		"Deathrock",
-		"Deep house",
-		"Desert rock",
-		"Detroit techno",
-		"Digital hardcore",
-		"Disco house",
-		"Disco polo",
-		"Disco",
-		"Diva house",
-		"Dixieland",
-		"Djent",
-		"Doom metal",
-		"Doomcore",
-		"Downtempo",
-		"Dream house",
-		"Dream pop",
-		"Dream trance",
-		"Drone metal",
-		"Drone",
-		"Drum and bass",
-		"Drumfunk",
-		"Drumstep",
-		"Dub",
-		"Dubstep",
-		"Dubstyle",
-		"Dubtronica",
-		"Dunedin Sound",
-		"Dutch house",
-		"EDM",
-		"Electro backbeat",
-		"Electro house",
-		"Electro-grime",
-		"Electro-industrial",
-		"Electro",
-		"Electroacoustic",
-		"Electroclash",
-		"Electronic art music",
-		"Electronic rock",
-		"Electronica",
-		"Electronicore",
-		"Electropop",
-		"Electropunk",
-		"Emo",
-		"Epic doom",
-		"Ethereal wave",
-		"Ethnic electronica",
-		"Euro disco",
-		"Eurobeat",
-		"Eurodance",
-		"European free jazz",
-		"Europop",
-		"Experimental rock",
-		"Filk",
-		"Florida breaks",
-		"Folk metal",
-		"Folk punk",
-		"Folk rock",
-		"Folk",
-		"Folktronica",
-		"Freak folk",
-		"Freakbeat",
-		"Free tekno",
-		"Freestyle house",
-		"Freestyle",
-		"French house",
-		"Full on",
-		"Funeral doom",
-		"Funk metal",
-		"Funky house",
-		"Funky",
-		"Futurepop",
-		"Gabber",
-		"Garage punk",
-		"Garage rock",
-		"Ghetto house",
-		"Ghettotech",
-		"Glam metal",
-		"Glam rock",
-		"Glitch",
-		"Goregrind",
-		"Gothic metal",
-		"Gothic rock",
-		"Grime",
-		"Grindcore",
-		"Groove metal",
-		"Grunge",
-		"Happy hardcore",
-		"Hard bop",
-		"Hard NRG",
-		"Hard rock",
-		"Hard trance",
-		"Hardbag",
-		"Hardcore punk",
-		"Hardcore/Hard dance",
-		"Hardstep",
-		"Hardstyle",
-		"Heavy metal",
-		"Hi-NRG",
-		"Hip house",
-		"Horror punk",
-		"House",
-		"IDM",
-		"Illbient",
-		"Indie folk",
-		"Indie pop",
-		"Indie rock",
-		"Indietronica",
-		"Industrial folk",
-		"Industrial metal",
-		"Industrial rock",
-		"Industrial",
-		"Intelligent drum and bass",
-		"Italo dance",
-		"Italo disco",
-		"Italo house",
-		"Japanoise",
-		"Jazz blues",
-		"Jazz fusion",
-		"Jazz rap",
-		"Jazz rock",
-		"Jazz-funk",
-		"Jump-Up",
-		"Jumpstyle",
-		"Krautrock",
-		"Laptronica",
-		"Latin house",
-		"Latin jazz",
-		"Liquid funk",
-		"Livetronica",
-		"Lowercase",
-		"Madchester",
-		"Mainstream jazz",
-		"Makina",
-		"Math rock",
-		"Mathcore",
-		"Medieval metal",
-		"Melodic death metal",
-		"Metalcore",
-		"Minimal house/Microhouse",
-		"Minimal",
-		"Modal jazz",
-		"Moombahton",
-		"Neo-bop jazz",
-		"Neo-psychedelia",
-		"Neo-swing",
-		"Neofolk",
-		"Neurofunk",
-		"New Beat",
+        "2-step",
+        "4-beat",
+        "Acid breaks",
+        "Acid house",
+        "Acid jazz",
+        "Acid rock",
+        "Acid techno",
+        "Acid trance",
+        "Aggrotech",
+        "Alternative dance",
+        "Alternative metal",
+        "Alternative rock",
+        "Ambient dub",
+        "Ambient house",
+        "Ambient techno",
+        "Ambient",
+        "Anarcho punk",
+        "Anti-folk",
+        "Art punk",
+        "Art rock",
+        "Asian Underground",
+        "Avant-garde jazz",
+        "Baggy",
+        "Balearic Beat",
+        "Baltimore Club",
+        "Bassline",
+        "Beat music",
+        "Bebop",
+        "Big beat",
+        "Bitpop",
+        "Black metal",
+        "Boogie-woogie",
+        "Boogie",
+        "Bossa nova",
+        "Bouncy house",
+        "Bouncy techno",
+        "Breakbeat hardcore",
+        "Breakbeat",
+        "Breakcore",
+        "Breakstep",
+        "British dance",
+        "Britpop",
+        "Broken beat",
+        "Bubblegum dance",
+        "Canterbury scene",
+        "Cape jazz",
+        "Celtic metal",
+        "Celtic punk",
+        "Celtic",
+        "Chamber jazz",
+        "Chicago house",
+        "Chill out",
+        "Chillwave",
+        "Chinese rock",
+        "Chiptune",
+        "Christian metal",
+        "Christian punk",
+        "Christian rock",
+        "Classic trance",
+        "Coldwave",
+        "Contemporary folk",
+        "Continental Jazz",
+        "Cool jazz",
+        "Cosmic disco",
+        "Cowpunk",
+        "Crossover jazz",
+        "Crossover thrash",
+        "Crunk",
+        "Crust punk",
+        "Crustgrind",
+        "Cybergrind",
+        "D-beat",
+        "Dance-pop",
+        "Dance-punk",
+        "Dance-rock",
+        "Dark ambient",
+        "Dark cabaret",
+        "Dark electro",
+        "Dark psytrance",
+        "Dark Wave",
+        "Darkcore",
+        "Darkside jungle",
+        "Darkstep",
+        "Death industrial",
+        "Death metal",
+        "Deathcore",
+        "Deathrock",
+        "Deep house",
+        "Desert rock",
+        "Detroit techno",
+        "Digital hardcore",
+        "Disco house",
+        "Disco polo",
+        "Disco",
+        "Diva house",
+        "Dixieland",
+        "Djent",
+        "Doom metal",
+        "Doomcore",
+        "Downtempo",
+        "Dream house",
+        "Dream pop",
+        "Dream trance",
+        "Drone metal",
+        "Drone",
+        "Drum and bass",
+        "Drumfunk",
+        "Drumstep",
+        "Dub",
+        "Dubstep",
+        "Dubstyle",
+        "Dubtronica",
+        "Dunedin Sound",
+        "Dutch house",
+        "EDM",
+        "Electro backbeat",
+        "Electro house",
+        "Electro-grime",
+        "Electro-industrial",
+        "Electro",
+        "Electroacoustic",
+        "Electroclash",
+        "Electronic art music",
+        "Electronic rock",
+        "Electronica",
+        "Electronicore",
+        "Electropop",
+        "Electropunk",
+        "Emo",
+        "Epic doom",
+        "Ethereal wave",
+        "Ethnic electronica",
+        "Euro disco",
+        "Eurobeat",
+        "Eurodance",
+        "European free jazz",
+        "Europop",
+        "Experimental rock",
+        "Filk",
+        "Florida breaks",
+        "Folk metal",
+        "Folk punk",
+        "Folk rock",
+        "Folk",
+        "Folktronica",
+        "Freak folk",
+        "Freakbeat",
+        "Free tekno",
+        "Freestyle house",
+        "Freestyle",
+        "French house",
+        "Full on",
+        "Funeral doom",
+        "Funk metal",
+        "Funky house",
+        "Funky",
+        "Futurepop",
+        "Gabber",
+        "Garage punk",
+        "Garage rock",
+        "Ghetto house",
+        "Ghettotech",
+        "Glam metal",
+        "Glam rock",
+        "Glitch",
+        "Goregrind",
+        "Gothic metal",
+        "Gothic rock",
+        "Grime",
+        "Grindcore",
+        "Groove metal",
+        "Grunge",
+        "Happy hardcore",
+        "Hard bop",
+        "Hard NRG",
+        "Hard rock",
+        "Hard trance",
+        "Hardbag",
+        "Hardcore punk",
+        "Hardcore/Hard dance",
+        "Hardstep",
+        "Hardstyle",
+        "Heavy metal",
+        "Hi-NRG",
+        "Hip house",
+        "Horror punk",
+        "House",
+        "IDM",
+        "Illbient",
+        "Indie folk",
+        "Indie pop",
+        "Indie rock",
+        "Indietronica",
+        "Industrial folk",
+        "Industrial metal",
+        "Industrial rock",
+        "Industrial",
+        "Intelligent drum and bass",
+        "Italo dance",
+        "Italo disco",
+        "Italo house",
+        "Japanoise",
+        "Jazz blues",
+        "Jazz fusion",
+        "Jazz rap",
+        "Jazz rock",
+        "Jazz-funk",
+        "Jump-Up",
+        "Jumpstyle",
+        "Krautrock",
+        "Laptronica",
+        "Latin house",
+        "Latin jazz",
+        "Liquid funk",
+        "Livetronica",
+        "Lowercase",
+        "Madchester",
+        "Mainstream jazz",
+        "Makina",
+        "Math rock",
+        "Mathcore",
+        "Medieval metal",
+        "Melodic death metal",
+        "Metalcore",
+        "Minimal house/Microhouse",
+        "Minimal",
+        "Modal jazz",
+        "Moombahton",
+        "Neo-bop jazz",
+        "Neo-psychedelia",
+        "Neo-swing",
+        "Neofolk",
+        "Neurofunk",
+        "New Beat",
     "New jack swing",
-		"New prog",
-		"New rave",
-		"New wave",
-		"New-age",
-		"Nintendocore",
-		"No wave",
-		"Noise pop",
-		"Noise rock",
-		"Noise",
-		"Noisegrind",
-		"Nortec",
-		"Novelty ragtime",
-		"Nu jazz",
-		"Nu metal",
-		"Nu skool breaks",
-		"Nu-disco",
-		"Oldschool jungle",
-		"Orchestral jazz",
-		"Orchestral Uplifting",
-		"Paisley Underground",
-		"Pop punk",
-		"Pop rock",
-		"Post-bop",
-		"Post-Britpop",
-		"Post-disco",
-		"Post-grunge",
-		"Post-hardcore",
-		"Post-metal",
-		"Post-punk revival",
-		"Post-punk",
-		"Post-rock",
-		"Power electronics",
-		"Power metal",
-		"Power noise",
-		"Power pop",
-		"Powerviolence",
-		"Progressive breaks",
-		"Progressive drum & bass",
-		"Progressive folk",
-		"Progressive house",
-		"Progressive metal",
-		"Progressive rock",
-		"Progressive techno",
-		"Progressive",
-		"Psybreaks",
-		"Psychedelic folk",
-		"Psychedelic rock",
-		"Psychedelic trance",
-		"Psychobilly",
-		"Psyprog",
-		"Punk jazz",
-		"Punk rock",
-		"Raga rock",
-		"Ragga-jungle",
-		"Raggacore",
-		"Ragtime",
-		"Rap metal",
-		"Rap rock",
-		"Rapcore",
-		"Riot grrrl",
-		"Rock and roll",
-		"Rock in Opposition",
-		"Sadcore",
-		"Sambass",
-		"Screamo",
-		"Shibuya-kei",
-		"Shoegaze",
-		"Ska jazz",
-		"Ska punk",
-		"Skate punk",
-		"Skweee",
-		"Slowcore",
-		"Sludge metal",
-		"Smooth jazz",
-		"Soft rock",
-		"Soul jazz",
-		"Sound art",
-		"Southern rock",
-		"Space disco",
-		"Space house",
-		"Space rock",
-		"Speed garage",
-		"Speed metal",
-		"Speedcore",
-		"Stoner rock",
-		"Straight-ahead jazz",
-		"Street punk",
-		"Stride jazz",
-		"Sufi rock",
-		"Sung poetry",
-		"Suomisaundi",
-		"Surf rock",
-		"Swing house",
-		"Swing",
-		"Symphonic metal",
-		"Synthcore",
-		"Synthpop",
-		"Synthpunk",
-		"Tech house",
-		"Tech trance",
-		"Technical death metal",
-		"Techno-DNB",
-		"Techno-folk",
-		"Techno",
-		"Technopop",
-		"Techstep",
-		"Tecno brega",
-		"Terrorcore",
-		"Third stream",
-		"Thrash metal",
-		"Thrashcore",
-		"Toytown Techno",
-		"Trad jazz",
-		"Traditional doom",
-		"Trance",
-		"Trap",
-		"Tribal house",
-		"Trip hop",
-		"Turbofolk",
-		"Twee Pop",
-		"Uplifting trance",
-		"Viking metal",
-		"Vocal house",
-		"Vocal jazz",
-		"Vocal trance",
-		"West Coast jazz",
-		"Western",
-		"Witch House/Drag",
-		"World fusion",
-		"Worldbeat",
+        "New prog",
+        "New rave",
+        "New wave",
+        "New-age",
+        "Nintendocore",
+        "No wave",
+        "Noise pop",
+        "Noise rock",
+        "Noise",
+        "Noisegrind",
+        "Nortec",
+        "Novelty ragtime",
+        "Nu jazz",
+        "Nu metal",
+        "Nu skool breaks",
+        "Nu-disco",
+        "Oldschool jungle",
+        "Orchestral jazz",
+        "Orchestral Uplifting",
+        "Paisley Underground",
+        "Pop punk",
+        "Pop rock",
+        "Post-bop",
+        "Post-Britpop",
+        "Post-disco",
+        "Post-grunge",
+        "Post-hardcore",
+        "Post-metal",
+        "Post-punk revival",
+        "Post-punk",
+        "Post-rock",
+        "Power electronics",
+        "Power metal",
+        "Power noise",
+        "Power pop",
+        "Powerviolence",
+        "Progressive breaks",
+        "Progressive drum & bass",
+        "Progressive folk",
+        "Progressive house",
+        "Progressive metal",
+        "Progressive rock",
+        "Progressive techno",
+        "Progressive",
+        "Psybreaks",
+        "Psychedelic folk",
+        "Psychedelic rock",
+        "Psychedelic trance",
+        "Psychobilly",
+        "Psyprog",
+        "Punk jazz",
+        "Punk rock",
+        "Raga rock",
+        "Ragga-jungle",
+        "Raggacore",
+        "Ragtime",
+        "Rap metal",
+        "Rap rock",
+        "Rapcore",
+        "Riot grrrl",
+        "Rock and roll",
+        "Rock in Opposition",
+        "Sadcore",
+        "Sambass",
+        "Screamo",
+        "Shibuya-kei",
+        "Shoegaze",
+        "Ska jazz",
+        "Ska punk",
+        "Skate punk",
+        "Skweee",
+        "Slowcore",
+        "Sludge metal",
+        "Smooth jazz",
+        "Soft rock",
+        "Soul jazz",
+        "Sound art",
+        "Southern rock",
+        "Space disco",
+        "Space house",
+        "Space rock",
+        "Speed garage",
+        "Speed metal",
+        "Speedcore",
+        "Stoner rock",
+        "Straight-ahead jazz",
+        "Street punk",
+        "Stride jazz",
+        "Sufi rock",
+        "Sung poetry",
+        "Suomisaundi",
+        "Surf rock",
+        "Swing house",
+        "Swing",
+        "Symphonic metal",
+        "Synthcore",
+        "Synthpop",
+        "Synthpunk",
+        "Tech house",
+        "Tech trance",
+        "Technical death metal",
+        "Techno-DNB",
+        "Techno-folk",
+        "Techno",
+        "Technopop",
+        "Techstep",
+        "Tecno brega",
+        "Terrorcore",
+        "Third stream",
+        "Thrash metal",
+        "Thrashcore",
+        "Toytown Techno",
+        "Trad jazz",
+        "Traditional doom",
+        "Trance",
+        "Trap",
+        "Tribal house",
+        "Trip hop",
+        "Turbofolk",
+        "Twee Pop",
+        "Uplifting trance",
+        "Viking metal",
+        "Vocal house",
+        "Vocal jazz",
+        "Vocal trance",
+        "West Coast jazz",
+        "Western",
+        "Witch House/Drag",
+        "World fusion",
+        "Worldbeat",
     "Yacht rock",
-		"Yorkshire Bleeps and Bass"
-	],[
-		"Aphrodite",
-		"Apollo",
-		"Ares",
-		"Artemis",
-		"Athena",
-		"Demeter",
-		"Dionysus",
-		"Hades",
-		"Hephaestus",
-		"Hera",
-		"Hermes",
-		"Hestia",
-		"Poseidon",
-		"Zeus",
-		"Aether",
-		"Ananke",
-		"Chaos",
-		"Chronos",
-		"Erebus",
-		"Eros",
-		"Hypnos",
-		"Uranus",
-		"Gaia",
-		"Phanes",
-		"Pontus",
-		"Tartarus",
-		"Thalassa",
-		"Thanatos",
-		"Hemera",
-		"Nyx",
-		"Nemesis"
-	],[
-	 ".22-caliber Double Deuce Buddie two-shot",
-	 ".22-caliber Walther P22 semiautomatic",
-	 ".223 Bushmaster assault rifle",
-	 ".223 Bushmaster XM15-E2S rifle",
-	 ".223-caliber Smith & Wesson M&P15 semiautomatic rifle",
-	 ".30-06 Remington 742",
-	 ".30-caliber Universal M-1 carbine",
-	 ".30-caliber Universal M1 carbine",
-	 ".32-caliber Retolaza semiautomatic",
-	 ".357 Ruger Blackhawk revolver",
-	 ".357-caliber Ruger Security Six",
-	 ".38-caliber Colt revolver",
-	 ".38-caliber Davis Industries two-shot derringer",
-	 ".38-caliber Smith & Wesson",
-	 ".380-caliber",
-	 ".40-caliber Glock",
-	 ".44 Magnum Ruger",
-	 ".45-caliber Colt semiautomatic",
-	 ".45-caliber Springfield semiautomatic",
-	 "10mm Glock" ,
-	 "12-gauge Remington 870 pump-action shotgun",
-	 "12-gauge Remington Sportsman sawed-off shotgun",
-	 "12-gauge sawed-off Savage Stevens 311D",
-	 "12-gauge Winchester 1200 pump-action shotgun",
-	 "12-gauge Winchester 1300 pump-action shotgun",
-	 "20-gauge Winchester pump-action shotgun",
-	 "7.62mm AK-47",
-	 "9mm Beretta",
-	 "9mm Browning P35 Hi-Power semiautomatic handgun",
-	 "9mm Glock 17 handgun",
-	 "9mm Glock 17",
-	 "9mm Glock 19",
-	 "9mm Glock",
-	 "9mm Hi-Point 995 carbine rifle",
-	 "9mm Intratec DC-9 semiautomatic",
-	 "9mm Israeli Military Industries Uzi Model A",
-	 "9mm Kurz SIG Sauer P232 semiautomatic",
-	 "9mm Ruger P85",
-	 "9mm Ruger P89",
-	 "9mm Ruger SR9 semiautomatic",
-	 "9mm SIG Sauer P226",
-	 "9mm SIG Sauer semiautomatic",
-	 "9mm Smith & Wesson 459 semiautomatic",
-	 "9mm Smith & Wesson 915 semiautomatic",
-	 "9mm Springfield Armory XDM semiautomatic",
-	 "9mm Taurus semiautomatic",
-	 "AK-47",
-	 "AR-15 assault rifle",
-	 "FIE .380-caliber Star semiautomatic",
-	 "Glock 34",
-	 "Hi-Point CF380",
-	 "Intratec DC-9",
-	 "Intratec MAC-11",
-	 "Izhmash Saiga-12 12-gauge semiautomatic shotgun",
-	 "MAK-90 rifle",
-	 "sawed-off Savage Springfield 67H pump-action shotgun",
-	 "Sig Sauer p226",
-	 "Sturm, Ruger Mini-14 rifle",
-	 "WASR-10 Century Arms rifle"
-	 ],[
-	"accordian",
-	"air horn",
-	"baby grand piano",
-	"bagpipe",
-	"banjo",
-	"bass guitar",
-	"bassoon",
-	"bugle",
-	"calliope",
-	"cello",
-	"clarinet",
-	"clavichord",
-	"concertina",
-	"didgeridoo",
-	"dobro",
-	"dulcimer",
-	"fiddle",
-	"fife",
-	"flugelhorn",
-	"flute",
-	"French horn",
-	"glockenspiel",
-	"grand piano",
-	"guitar",
-	"harmonica",
-	"harp",
-	"harpsichord",
-	"hurdy-gurdy",
-	"kazoo",
-	"kick drum",
-	"lute",
-	"lyre",
-	"mandolin",
-	"marimba",
-	"mellotran",
-	"melodica",
-	"oboe",
-	"pan flute",
-	"piano",
-	"piccolo",
-	"pipe organ",
-	"saxaphone",
-	"sitar",
-	"sousaphone",
-	"tambourine",
-	"theremin",
-	"trombone",
-	"tuba",
-	"ukulele",
-	"viola",
-	"violin",
-	"vuvuzela",
-	"washtub bass",
-	"xylophone",
-	"zither"
-	],[
+        "Yorkshire Bleeps and Bass"
+    ],[
+        "Aphrodite",
+        "Apollo",
+        "Ares",
+        "Artemis",
+        "Athena",
+        "Demeter",
+        "Dionysus",
+        "Hades",
+        "Hephaestus",
+        "Hera",
+        "Hermes",
+        "Hestia",
+        "Poseidon",
+        "Zeus",
+        "Aether",
+        "Ananke",
+        "Chaos",
+        "Chronos",
+        "Erebus",
+        "Eros",
+        "Hypnos",
+        "Uranus",
+        "Gaia",
+        "Phanes",
+        "Pontus",
+        "Tartarus",
+        "Thalassa",
+        "Thanatos",
+        "Hemera",
+        "Nyx",
+        "Nemesis"
+    ],[
+     ".22-caliber Double Deuce Buddie two-shot",
+     ".22-caliber Walther P22 semiautomatic",
+     ".223 Bushmaster assault rifle",
+     ".223 Bushmaster XM15-E2S rifle",
+     ".223-caliber Smith & Wesson M&P15 semiautomatic rifle",
+     ".30-06 Remington 742",
+     ".30-caliber Universal M-1 carbine",
+     ".30-caliber Universal M1 carbine",
+     ".32-caliber Retolaza semiautomatic",
+     ".357 Ruger Blackhawk revolver",
+     ".357-caliber Ruger Security Six",
+     ".38-caliber Colt revolver",
+     ".38-caliber Davis Industries two-shot derringer",
+     ".38-caliber Smith & Wesson",
+     ".380-caliber",
+     ".40-caliber Glock",
+     ".44 Magnum Ruger",
+     ".45-caliber Colt semiautomatic",
+     ".45-caliber Springfield semiautomatic",
+     "10mm Glock" ,
+     "12-gauge Remington 870 pump-action shotgun",
+     "12-gauge Remington Sportsman sawed-off shotgun",
+     "12-gauge sawed-off Savage Stevens 311D",
+     "12-gauge Winchester 1200 pump-action shotgun",
+     "12-gauge Winchester 1300 pump-action shotgun",
+     "20-gauge Winchester pump-action shotgun",
+     "7.62mm AK-47",
+     "9mm Beretta",
+     "9mm Browning P35 Hi-Power semiautomatic handgun",
+     "9mm Glock 17 handgun",
+     "9mm Glock 17",
+     "9mm Glock 19",
+     "9mm Glock",
+     "9mm Hi-Point 995 carbine rifle",
+     "9mm Intratec DC-9 semiautomatic",
+     "9mm Israeli Military Industries Uzi Model A",
+     "9mm Kurz SIG Sauer P232 semiautomatic",
+     "9mm Ruger P85",
+     "9mm Ruger P89",
+     "9mm Ruger SR9 semiautomatic",
+     "9mm SIG Sauer P226",
+     "9mm SIG Sauer semiautomatic",
+     "9mm Smith & Wesson 459 semiautomatic",
+     "9mm Smith & Wesson 915 semiautomatic",
+     "9mm Springfield Armory XDM semiautomatic",
+     "9mm Taurus semiautomatic",
+     "AK-47",
+     "AR-15 assault rifle",
+     "FIE .380-caliber Star semiautomatic",
+     "Glock 34",
+     "Hi-Point CF380",
+     "Intratec DC-9",
+     "Intratec MAC-11",
+     "Izhmash Saiga-12 12-gauge semiautomatic shotgun",
+     "MAK-90 rifle",
+     "sawed-off Savage Springfield 67H pump-action shotgun",
+     "Sig Sauer p226",
+     "Sturm, Ruger Mini-14 rifle",
+     "WASR-10 Century Arms rifle"
+     ],[
+    "accordian",
+    "air horn",
+    "baby grand piano",
+    "bagpipe",
+    "banjo",
+    "bass guitar",
+    "bassoon",
+    "bugle",
+    "calliope",
+    "cello",
+    "clarinet",
+    "clavichord",
+    "concertina",
+    "didgeridoo",
+    "dobro",
+    "dulcimer",
+    "fiddle",
+    "fife",
+    "flugelhorn",
+    "flute",
+    "French horn",
+    "glockenspiel",
+    "grand piano",
+    "guitar",
+    "harmonica",
+    "harp",
+    "harpsichord",
+    "hurdy-gurdy",
+    "kazoo",
+    "kick drum",
+    "lute",
+    "lyre",
+    "mandolin",
+    "marimba",
+    "mellotran",
+    "melodica",
+    "oboe",
+    "pan flute",
+    "piano",
+    "piccolo",
+    "pipe organ",
+    "saxaphone",
+    "sitar",
+    "sousaphone",
+    "tambourine",
+    "theremin",
+    "trombone",
+    "tuba",
+    "ukulele",
+    "viola",
+    "violin",
+    "vuvuzela",
+    "washtub bass",
+    "xylophone",
+    "zither"
+    ],[
     "Action & Adventure",
     "Action Comedies",
     "Action Sci-Fi & Fantasy",
@@ -5807,236 +5807,5037 @@ data = [[
     ]]
 
 cities = {
-	"description": "U.S. State Capitals",
-	"source": "Wikipedia: List of U.S. state capitals",
-	"capitals": [{
-			"capital": "Montgomery",
-			"state": "Alabama"
-		},
-		{
-			"capital": "Juneau",
-			"state": "Alaska"
-		},
-		{
-			"capital": "Phoenix",
-			"state": "Arizona"
-		},
-		{
-			"capital": "Little Rock",
-			"state": "Arkansas"
-		},
-		{
-			"capital": "Sacramento",
-			"state": "California"
-		},
-		{
-			"capital": "Denver",
-			"state": "Colorado"
-		},
-		{
-			"capital": "Hartford",
-			"state": "Connecticut"
-		},
-		{
-			"capital": "Dover",
-			"state": "Delaware"
-		},
-		{
-			"capital": "Tallahassee",
-			"state": "Florida"
-		},
-		{
-			"capital": "Atlanta",
-			"state": "Georgia"
-		},
-		{
-			"capital": "Honolulu",
-			"state": "Hawaii"
-		},
-		{
-			"capital": "Boise",
-			"state": "Idaho"
-		},
-		{
-			"capital": "Springfield",
-			"state": "Illinois"
-		},
-		{
-			"capital": "Indianapolis",
-			"state": "Indiana"
-		},
-		{
-			"capital": "Des Moines",
-			"state": "Iowa"
-		},
-		{
-			"capital": "Topeka",
-			"state": "Kansas"
-		},
-		{
-			"capital": "Frankfort",
-			"state": "Kentucky"
-		},
-		{
-			"capital": "Baton Rouge",
-			"state": "Louisiana"
-		},
-		{
-			"capital": "Augusta",
-			"state": "Maine"
-		},
-		{
-			"capital": "Annapolis",
-			"state": "Maryland"
-		},
-		{
-			"capital": "Boston",
-			"state": "Massachusetts"
-		},
-		{
-			"capital": "Lansing",
-			"state": "Michigan"
-		},
-		{
-			"capital": "Saint Paul",
-			"state": "Minnesota"
-		},
-		{
-			"capital": "Jackson",
-			"state": "Mississippi"
-		},
-		{
-			"capital": "Jefferson City",
-			"state": "Missouri"
-		},
-		{
-			"capital": "Helena",
-			"state": "Montana"
-		},
-		{
-			"capital": "Lincoln",
-			"state": "Nebraska"
-		},
-		{
-			"capital": "Carson City",
-			"state": "Nevada"
-		},
-		{
-			"capital": "Concord",
-			"state": "New Hampshire"
-		},
-		{
-			"capital": "Trenton",
-			"state": "New Jersey"
-		},
-		{
-			"capital": "Santa Fe",
-			"state": "New Mexico"
-		},
-		{
-			"capital": "Albany",
-			"state": "New York"
-		},
-		{
-			"capital": "Raleigh",
-			"state": "North Carolina"
-		},
-		{
-			"capital": "Bismarck",
-			"state": "North Dakota"
-		},
-		{
-			"capital": "Columbus",
-			"state": "Ohio"
-		},
-		{
-			"capital": "Oklahoma City",
-			"state": "Oklahoma"
-		},
-		{
-			"capital": "Salem",
-			"state": "Oregon"
-		},
-		{
-			"capital": "Harrisburg",
-			"state": "Pennsylvania"
-		},
-		{
-			"capital": "Providence",
-			"state": "Rhode Island"
-		},
-		{
-			"capital": "Columbia",
-			"state": "South Carolina"
-		},
-		{
-			"capital": "Pierre",
-			"state": "South Dakota"
-		},
-		{
-			"capital": "Nashville",
-			"state": "Tennessee"
-		},
-		{
-			"capital": "Austin",
-			"state": "Texas"
-		},
-		{
-			"capital": "Salt Lake City",
-			"state": "Utah"
-		},
-		{
-			"capital": "Montpelier",
-			"state": "Vermont"
-		},
-		{
-			"capital": "Richmond",
-			"state": "Virginia"
-		},
-		{
-			"capital": "Olympia",
-			"state": "Washington"
-		},
-		{
-			"capital": "Charleston",
-			"state": "West Virginia"
-		},
-		{
-			"capital": "Madison",
-			"state": "Wisconsin"
-		},
-		{
-			"capital": "Cheyenne",
-			"state": "Wyoming"
-		}
-	]
+  "description": "Top 1000 U.S. cities by population (2016 estimates)",
+  "source": "US Census American Community Survey 2016 5-year Data",
+  "cities": [
+    {
+      "city": "New York",
+      "state": "New York",
+      "population": 8461961
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "population": 3918872
+    },
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "population": 2714017
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "population": 2240582
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "population": 1559938
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "population": 1555324
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "population": 1439358
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "population": 1374812
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "population": 1278433
+    },
+    {
+      "city": "San Jose",
+      "state": "California",
+      "population": 1009363
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "population": 907779
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "population": 856616
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "population": 850282
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "population": 846674
+    },
+    {
+      "city": "Columbus",
+      "state": "Ohio",
+      "population": 837038
+    },
+    {
+      "city": "Fort Worth",
+      "state": "Texas",
+      "population": 815930
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "population": 808834
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "population": 683443
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "population": 678058
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "population": 668849
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "population": 663303
+    },
+    {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "population": 659009
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "population": 658279
+    },
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "population": 655857
+    },
+    {
+      "city": "Nashville-Davidson",
+      "state": "Tennessee",
+      "population": 643771
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "population": 621000
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "population": 620589
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "population": 620015
+    },
+    {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "population": 613295
+    },
+    {
+      "city": "Louisville/Jefferson County",
+      "state": "Kentucky",
+      "population": 611573
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "population": 598672
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "population": 556859
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "population": 527586
+    },
+    {
+      "city": "Fresno",
+      "state": "California",
+      "population": 513807
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "population": 484530
+    },
+    {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "population": 471767
+    },
+    {
+      "city": "Mesa",
+      "state": "Arizona",
+      "population": 470456
+    },
+    {
+      "city": "Long Beach",
+      "state": "California",
+      "population": 469793
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "population": 456378
+    },
+    {
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "population": 449733
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "population": 448759
+    },
+    {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "population": 443072
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "population": 441326
+    },
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "population": 432622
+    },
+    {
+      "city": "Oakland",
+      "state": "California",
+      "population": 412040
+    },
+    {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "population": 404670
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "population": 399906
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "population": 389165
+    },
+    {
+      "city": "Wichita",
+      "state": "Kansas",
+      "population": 388033
+    },
+    {
+      "city": "Arlington",
+      "state": "Texas",
+      "population": 383899
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "population": 382922
+    },
+    {
+      "city": "Bakersfield",
+      "state": "California",
+      "population": 367555
+    },
+    {
+      "city": "Tampa",
+      "state": "Florida",
+      "population": 361477
+    },
+    {
+      "city": "Aurora",
+      "state": "Colorado",
+      "population": 351131
+    },
+    {
+      "city": "San Juan",
+      "state": "Puerto Rico",
+      "population": 350402
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "population": 349597
+    },
+    {
+      "city": "Anaheim",
+      "state": "California",
+      "population": 346776
+    },
+    {
+      "city": "Santa Ana",
+      "state": "California",
+      "population": 333605
+    },
+    {
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "population": 320050
+    },
+    {
+      "city": "Riverside",
+      "state": "California",
+      "population": 318678
+    },
+    {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "population": 316030
+    },
+    {
+      "city": "Lexington-Fayette",
+      "state": "Kentucky",
+      "population": 311529
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "population": 305305
+    },
+    {
+      "city": "Stockton",
+      "state": "California",
+      "population": 301443
+    },
+    {
+      "city": "Anchorage",
+      "state": "Alaska",
+      "population": 299321
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "population": 298011
+    },
+    {
+      "city": "St. Paul",
+      "state": "Minnesota",
+      "population": 297160
+    },
+    {
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "population": 282177
+    },
+    {
+      "city": "Toledo",
+      "state": "Ohio",
+      "population": 280854
+    },
+    {
+      "city": "Newark",
+      "state": "New Jersey",
+      "population": 280139
+    },
+    {
+      "city": "Plano",
+      "state": "Texas",
+      "population": 279088
+    },
+    {
+      "city": "Henderson",
+      "state": "Nevada",
+      "population": 277872
+    },
+    {
+      "city": "Lincoln",
+      "state": "Nebraska",
+      "population": 273018
+    },
+    {
+      "city": "Orlando",
+      "state": "Florida",
+      "population": 263306
+    },
+    {
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "population": 261666
+    },
+    {
+      "city": "Fort Wayne",
+      "state": "Indiana",
+      "population": 260954
+    },
+    {
+      "city": "Chula Vista",
+      "state": "California",
+      "population": 260598
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "population": 258989
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "population": 253585
+    },
+    {
+      "city": "Durham",
+      "state": "North Carolina",
+      "population": 251761
+    },
+    {
+      "city": "Laredo",
+      "state": "Texas",
+      "population": 251671
+    },
+    {
+      "city": "Irvine",
+      "state": "California",
+      "population": 246992
+    },
+    {
+      "city": "Madison",
+      "state": "Wisconsin",
+      "population": 246034
+    },
+    {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "population": 245724
+    },
+    {
+      "city": "Lubbock",
+      "state": "Texas",
+      "population": 244507
+    },
+    {
+      "city": "Chandler",
+      "state": "Arizona",
+      "population": 242131
+    },
+    {
+      "city": "Glendale",
+      "state": "Arizona",
+      "population": 239943
+    },
+    {
+      "city": "Winston-Salem",
+      "state": "North Carolina",
+      "population": 238474
+    },
+    {
+      "city": "Reno",
+      "state": "Nevada",
+      "population": 237121
+    },
+    {
+      "city": "Hialeah",
+      "state": "Florida",
+      "population": 235626
+    },
+    {
+      "city": "Garland",
+      "state": "Texas",
+      "population": 234810
+    },
+    {
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "population": 234495
+    },
+    {
+      "city": "Chesapeake",
+      "state": "Virginia",
+      "population": 233194
+    },
+    {
+      "city": "Irving",
+      "state": "Texas",
+      "population": 232013
+    },
+    {
+      "city": "North Las Vegas",
+      "state": "Nevada",
+      "population": 230436
+    },
+    {
+      "city": "Paradise",
+      "state": "Nevada",
+      "population": 229666
+    },
+    {
+      "city": "Baton Rouge",
+      "state": "Louisiana",
+      "population": 228694
+    },
+    {
+      "city": "Fremont",
+      "state": "California",
+      "population": 227934
+    },
+    {
+      "city": "Gilbert",
+      "state": "Arizona",
+      "population": 226832
+    },
+    {
+      "city": "Arlington",
+      "state": "Virginia",
+      "population": 226092
+    },
+    {
+      "city": "Boise City",
+      "state": "Idaho",
+      "population": 218677
+    },
+    {
+      "city": "Richmond",
+      "state": "Virginia",
+      "population": 216773
+    },
+    {
+      "city": "San Bernardino",
+      "state": "California",
+      "population": 214581
+    },
+    {
+      "city": "Des Moines",
+      "state": "Iowa",
+      "population": 212859
+    },
+    {
+      "city": "Birmingham",
+      "state": "Alabama",
+      "population": 212424
+    },
+    {
+      "city": "Spokane",
+      "state": "Washington",
+      "population": 212078
+    },
+    {
+      "city": "Rochester",
+      "state": "New York",
+      "population": 210291
+    },
+    {
+      "city": "Modesto",
+      "state": "California",
+      "population": 208512
+    },
+    {
+      "city": "Tacoma",
+      "state": "Washington",
+      "population": 205602
+    },
+    {
+      "city": "Fontana",
+      "state": "California",
+      "population": 205228
+    },
+    {
+      "city": "Oxnard",
+      "state": "California",
+      "population": 204752
+    },
+    {
+      "city": "Fayetteville",
+      "state": "North Carolina",
+      "population": 203670
+    },
+    {
+      "city": "Moreno Valley",
+      "state": "California",
+      "population": 202061
+    },
+    {
+      "city": "Montgomery",
+      "state": "Alabama",
+      "population": 201717
+    },
+    {
+      "city": "Aurora",
+      "state": "Illinois",
+      "population": 200907
+    },
+    {
+      "city": "Columbus",
+      "state": "Georgia",
+      "population": 200303
+    },
+    {
+      "city": "Yonkers",
+      "state": "New York",
+      "population": 199725
+    },
+    {
+      "city": "Huntington Beach",
+      "state": "California",
+      "population": 198724
+    },
+    {
+      "city": "Shreveport",
+      "state": "Louisiana",
+      "population": 198571
+    },
+    {
+      "city": "Akron",
+      "state": "Ohio",
+      "population": 198508
+    },
+    {
+      "city": "Glendale",
+      "state": "California",
+      "population": 197895
+    },
+    {
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "population": 197640
+    },
+    {
+      "city": "Amarillo",
+      "state": "Texas",
+      "population": 197570
+    },
+    {
+      "city": "Augusta-Richmond County",
+      "state": "Georgia",
+      "population": 196784
+    },
+    {
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "population": 193887
+    },
+    {
+      "city": "Mobile",
+      "state": "Alabama",
+      "population": 193717
+    },
+    {
+      "city": "Sunrise Manor",
+      "state": "Nevada",
+      "population": 192873
+    },
+    {
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "population": 191446
+    },
+    {
+      "city": "Spring Valley",
+      "state": "Nevada",
+      "population": 190661
+    },
+    {
+      "city": "Huntsville",
+      "state": "Alabama",
+      "population": 188973
+    },
+    {
+      "city": "Tallahassee",
+      "state": "Florida",
+      "population": 188466
+    },
+    {
+      "city": "Grand Prairie",
+      "state": "Texas",
+      "population": 185631
+    },
+    {
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "population": 183927
+    },
+    {
+      "city": "Overland Park",
+      "state": "Kansas",
+      "population": 183775
+    },
+    {
+      "city": "Worcester",
+      "state": "Massachusetts",
+      "population": 183677
+    },
+    {
+      "city": "Brownsville",
+      "state": "Texas",
+      "population": 182110
+    },
+    {
+      "city": "Newport News",
+      "state": "Virginia",
+      "population": 181606
+    },
+    {
+      "city": "Santa Clarita",
+      "state": "California",
+      "population": 180303
+    },
+    {
+      "city": "Providence",
+      "state": "Rhode Island",
+      "population": 178851
+    },
+    {
+      "city": "Port St. Lucie",
+      "state": "Florida",
+      "population": 175652
+    },
+    {
+      "city": "Chattanooga",
+      "state": "Tennessee",
+      "population": 175462
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "Florida",
+      "population": 175153
+    },
+    {
+      "city": "Tempe",
+      "state": "Arizona",
+      "population": 174708
+    },
+    {
+      "city": "Garden Grove",
+      "state": "California",
+      "population": 174676
+    },
+    {
+      "city": "Oceanside",
+      "state": "California",
+      "population": 173829
+    },
+    {
+      "city": "Bayamon",
+      "state": "Puerto Rico",
+      "population": 173550
+    },
+    {
+      "city": "Rancho Cucamonga",
+      "state": "California",
+      "population": 173309
+    },
+    {
+      "city": "Santa Rosa",
+      "state": "California",
+      "population": 173165
+    },
+    {
+      "city": "Jackson",
+      "state": "Mississippi",
+      "population": 172039
+    },
+    {
+      "city": "Cape Coral",
+      "state": "Florida",
+      "population": 170063
+    },
+    {
+      "city": "Vancouver",
+      "state": "Washington",
+      "population": 169982
+    },
+    {
+      "city": "Ontario",
+      "state": "California",
+      "population": 169389
+    },
+    {
+      "city": "Sioux Falls",
+      "state": "South Dakota",
+      "population": 167884
+    },
+    {
+      "city": "Springfield",
+      "state": "Missouri",
+      "population": 165138
+    },
+    {
+      "city": "Pembroke Pines",
+      "state": "Florida",
+      "population": 164753
+    },
+    {
+      "city": "Elk Grove",
+      "state": "California",
+      "population": 163634
+    },
+    {
+      "city": "Salem",
+      "state": "Oregon",
+      "population": 161975
+    },
+    {
+      "city": "Eugene",
+      "state": "Oregon",
+      "population": 161649
+    },
+    {
+      "city": "Corona",
+      "state": "California",
+      "population": 161614
+    },
+    {
+      "city": "Lancaster",
+      "state": "California",
+      "population": 159651
+    },
+    {
+      "city": "Peoria",
+      "state": "Arizona",
+      "population": 158677
+    },
+    {
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "population": 157251
+    },
+    {
+      "city": "Palmdale",
+      "state": "California",
+      "population": 156823
+    },
+    {
+      "city": "McKinney",
+      "state": "Texas",
+      "population": 156821
+    },
+    {
+      "city": "Salinas",
+      "state": "California",
+      "population": 155889
+    },
+    {
+      "city": "Cary",
+      "state": "North Carolina",
+      "population": 155822
+    },
+    {
+      "city": "Hayward",
+      "state": "California",
+      "population": 154507
+    },
+    {
+      "city": "Springfield",
+      "state": "Massachusetts",
+      "population": 153991
+    },
+    {
+      "city": "Macon-Bibb County",
+      "state": "Georgia",
+      "population": 153925
+    },
+    {
+      "city": "Pasadena",
+      "state": "Texas",
+      "population": 153286
+    },
+    {
+      "city": "Pomona",
+      "state": "California",
+      "population": 151807
+    },
+    {
+      "city": "Alexandria",
+      "state": "Virginia",
+      "population": 151473
+    },
+    {
+      "city": "Escondido",
+      "state": "California",
+      "population": 149912
+    },
+    {
+      "city": "Lakewood",
+      "state": "Colorado",
+      "population": 149793
+    },
+    {
+      "city": "Kansas City",
+      "state": "Kansas",
+      "population": 149755
+    },
+    {
+      "city": "Rockford",
+      "state": "Illinois",
+      "population": 149597
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "California",
+      "population": 149596
+    },
+    {
+      "city": "Hollywood",
+      "state": "Florida",
+      "population": 148114
+    },
+    {
+      "city": "Carolina",
+      "state": "Puerto Rico",
+      "population": 147806
+    },
+    {
+      "city": "Joliet",
+      "state": "Illinois",
+      "population": 147515
+    },
+    {
+      "city": "Torrance",
+      "state": "California",
+      "population": 147307
+    },
+    {
+      "city": "Bridgeport",
+      "state": "Connecticut",
+      "population": 147022
+    },
+    {
+      "city": "Paterson",
+      "state": "New Jersey",
+      "population": 146894
+    },
+    {
+      "city": "Clarksville",
+      "state": "Tennessee",
+      "population": 146281
+    },
+    {
+      "city": "Naperville",
+      "state": "Illinois",
+      "population": 145789
+    },
+    {
+      "city": "Frisco",
+      "state": "Texas",
+      "population": 145646
+    },
+    {
+      "city": "Metairie",
+      "state": "Louisiana",
+      "population": 144772
+    },
+    {
+      "city": "Savannah",
+      "state": "Georgia",
+      "population": 144717
+    },
+    {
+      "city": "Syracuse",
+      "state": "New York",
+      "population": 144350
+    },
+    {
+      "city": "Mesquite",
+      "state": "Texas",
+      "population": 143771
+    },
+    {
+      "city": "Dayton",
+      "state": "Ohio",
+      "population": 141143
+    },
+    {
+      "city": "Pasadena",
+      "state": "California",
+      "population": 140268
+    },
+    {
+      "city": "Orange",
+      "state": "California",
+      "population": 139919
+    },
+    {
+      "city": "Fullerton",
+      "state": "California",
+      "population": 139491
+    },
+    {
+      "city": "Killeen",
+      "state": "Texas",
+      "population": 138745
+    },
+    {
+      "city": "McAllen",
+      "state": "Texas",
+      "population": 138475
+    },
+    {
+      "city": "Hampton",
+      "state": "Virginia",
+      "population": 136789
+    },
+    {
+      "city": "Bellevue",
+      "state": "Washington",
+      "population": 136718
+    },
+    {
+      "city": "Warren",
+      "state": "Michigan",
+      "population": 135069
+    },
+    {
+      "city": "West Valley City",
+      "state": "Utah",
+      "population": 134609
+    },
+    {
+      "city": "Miramar",
+      "state": "Florida",
+      "population": 133741
+    },
+    {
+      "city": "Olathe",
+      "state": "Kansas",
+      "population": 132787
+    },
+    {
+      "city": "Columbia",
+      "state": "South Carolina",
+      "population": 132537
+    },
+    {
+      "city": "Sterling Heights",
+      "state": "Michigan",
+      "population": 131674
+    },
+    {
+      "city": "Waco",
+      "state": "Texas",
+      "population": 130659
+    },
+    {
+      "city": "Thornton",
+      "state": "Colorado",
+      "population": 130511
+    },
+    {
+      "city": "New Haven",
+      "state": "Connecticut",
+      "population": 130405
+    },
+    {
+      "city": "Charleston",
+      "state": "South Carolina",
+      "population": 129888
+    },
+    {
+      "city": "Enterprise",
+      "state": "Nevada",
+      "population": 129620
+    },
+    {
+      "city": "Cedar Rapids",
+      "state": "Iowa",
+      "population": 129537
+    },
+    {
+      "city": "Carrollton",
+      "state": "Texas",
+      "population": 129266
+    },
+    {
+      "city": "Visalia",
+      "state": "California",
+      "population": 128738
+    },
+    {
+      "city": "Thousand Oaks",
+      "state": "California",
+      "population": 128623
+    },
+    {
+      "city": "Gainesville",
+      "state": "Florida",
+      "population": 128610
+    },
+    {
+      "city": "Denton",
+      "state": "Texas",
+      "population": 128421
+    },
+    {
+      "city": "Roseville",
+      "state": "California",
+      "population": 128276
+    },
+    {
+      "city": "Midland",
+      "state": "Texas",
+      "population": 128051
+    },
+    {
+      "city": "Elizabeth",
+      "state": "New Jersey",
+      "population": 128042
+    },
+    {
+      "city": "Coral Springs",
+      "state": "Florida",
+      "population": 127673
+    },
+    {
+      "city": "Surprise",
+      "state": "Arizona",
+      "population": 127492
+    },
+    {
+      "city": "Topeka",
+      "state": "Kansas",
+      "population": 127472
+    },
+    {
+      "city": "Stamford",
+      "state": "Connecticut",
+      "population": 127410
+    },
+    {
+      "city": "Concord",
+      "state": "California",
+      "population": 126938
+    },
+    {
+      "city": "Simi Valley",
+      "state": "California",
+      "population": 126126
+    },
+    {
+      "city": "Lafayette",
+      "state": "Louisiana",
+      "population": 125808
+    },
+    {
+      "city": "Kent",
+      "state": "Washington",
+      "population": 125492
+    },
+    {
+      "city": "Hartford",
+      "state": "Connecticut",
+      "population": 124320
+    },
+    {
+      "city": "East Los Angeles",
+      "state": "California",
+      "population": 124191
+    },
+    {
+      "city": "Ponce",
+      "state": "Puerto Rico",
+      "population": 123328
+    },
+    {
+      "city": "Santa Clara",
+      "state": "California",
+      "population": 122725
+    },
+    {
+      "city": "Abilene",
+      "state": "Texas",
+      "population": 122612
+    },
+    {
+      "city": "Murfreesboro",
+      "state": "Tennessee",
+      "population": 122007
+    },
+    {
+      "city": "Victorville",
+      "state": "California",
+      "population": 121320
+    },
+    {
+      "city": "Athens-Clarke County",
+      "state": "Georgia",
+      "population": 120813
+    },
+    {
+      "city": "Evansville",
+      "state": "Indiana",
+      "population": 120156
+    },
+    {
+      "city": "Vallejo",
+      "state": "California",
+      "population": 119644
+    },
+    {
+      "city": "Allentown",
+      "state": "Pennsylvania",
+      "population": 119624
+    },
+    {
+      "city": "Norman",
+      "state": "Oklahoma",
+      "population": 118974
+    },
+    {
+      "city": "Berkeley",
+      "state": "California",
+      "population": 118585
+    },
+    {
+      "city": "Ann Arbor",
+      "state": "Michigan",
+      "population": 118087
+    },
+    {
+      "city": "Beaumont",
+      "state": "Texas",
+      "population": 117729
+    },
+    {
+      "city": "Independence",
+      "state": "Missouri",
+      "population": 117217
+    },
+    {
+      "city": "Columbia",
+      "state": "Missouri",
+      "population": 117165
+    },
+    {
+      "city": "Springfield",
+      "state": "Illinois",
+      "population": 116745
+    },
+    {
+      "city": "Peoria",
+      "state": "Illinois",
+      "population": 115990
+    },
+    {
+      "city": "Fargo",
+      "state": "North Dakota",
+      "population": 115950
+    },
+    {
+      "city": "Provo",
+      "state": "Utah",
+      "population": 115718
+    },
+    {
+      "city": "El Monte",
+      "state": "California",
+      "population": 115665
+    },
+    {
+      "city": "Lansing",
+      "state": "Michigan",
+      "population": 114773
+    },
+    {
+      "city": "Odessa",
+      "state": "Texas",
+      "population": 114258
+    },
+    {
+      "city": "Wilmington",
+      "state": "North Carolina",
+      "population": 113724
+    },
+    {
+      "city": "Arvada",
+      "state": "Colorado",
+      "population": 113532
+    },
+    {
+      "city": "Downey",
+      "state": "California",
+      "population": 113223
+    },
+    {
+      "city": "Round Rock",
+      "state": "Texas",
+      "population": 112767
+    },
+    {
+      "city": "Miami Gardens",
+      "state": "Florida",
+      "population": 112514
+    },
+    {
+      "city": "Costa Mesa",
+      "state": "California",
+      "population": 112439
+    },
+    {
+      "city": "Lehigh Acres",
+      "state": "Florida",
+      "population": 112279
+    },
+    {
+      "city": "Carlsbad",
+      "state": "California",
+      "population": 112008
+    },
+    {
+      "city": "Elgin",
+      "state": "Illinois",
+      "population": 111919
+    },
+    {
+      "city": "Westminster",
+      "state": "Colorado",
+      "population": 111770
+    },
+    {
+      "city": "Clearwater",
+      "state": "Florida",
+      "population": 111747
+    },
+    {
+      "city": "Rochester",
+      "state": "Minnesota",
+      "population": 111396
+    },
+    {
+      "city": "Inglewood",
+      "state": "California",
+      "population": 111012
+    },
+    {
+      "city": "Fairfield",
+      "state": "California",
+      "population": 110953
+    },
+    {
+      "city": "West Jordan",
+      "state": "Utah",
+      "population": 110928
+    },
+    {
+      "city": "Manchester",
+      "state": "New Hampshire",
+      "population": 110231
+    },
+    {
+      "city": "Gresham",
+      "state": "Oregon",
+      "population": 110042
+    },
+    {
+      "city": "Lowell",
+      "state": "Massachusetts",
+      "population": 109871
+    },
+    {
+      "city": "Brandon",
+      "state": "Florida",
+      "population": 109784
+    },
+    {
+      "city": "Waterbury",
+      "state": "Connecticut",
+      "population": 109211
+    },
+    {
+      "city": "Billings",
+      "state": "Montana",
+      "population": 109089
+    },
+    {
+      "city": "San Buenaventura (Ventura)",
+      "state": "California",
+      "population": 109067
+    },
+    {
+      "city": "High Point",
+      "state": "North Carolina",
+      "population": 108982
+    },
+    {
+      "city": "Temecula",
+      "state": "California",
+      "population": 108965
+    },
+    {
+      "city": "Cambridge",
+      "state": "Massachusetts",
+      "population": 108757
+    },
+    {
+      "city": "Antioch",
+      "state": "California",
+      "population": 108675
+    },
+    {
+      "city": "Murrieta",
+      "state": "California",
+      "population": 108583
+    },
+    {
+      "city": "Pueblo",
+      "state": "Colorado",
+      "population": 108385
+    },
+    {
+      "city": "The Woodlands",
+      "state": "Texas",
+      "population": 108373
+    },
+    {
+      "city": "Richardson",
+      "state": "Texas",
+      "population": 108350
+    },
+    {
+      "city": "Richmond",
+      "state": "California",
+      "population": 108303
+    },
+    {
+      "city": "Centennial",
+      "state": "Colorado",
+      "population": 107862
+    },
+    {
+      "city": "West Covina",
+      "state": "California",
+      "population": 107634
+    },
+    {
+      "city": "Highlands Ranch",
+      "state": "Colorado",
+      "population": 106596
+    },
+    {
+      "city": "Everett",
+      "state": "Washington",
+      "population": 106580
+    },
+    {
+      "city": "Palm Bay",
+      "state": "Florida",
+      "population": 106573
+    },
+    {
+      "city": "Norwalk",
+      "state": "California",
+      "population": 106360
+    },
+    {
+      "city": "Pearland",
+      "state": "Texas",
+      "population": 106238
+    },
+    {
+      "city": "North Charleston",
+      "state": "South Carolina",
+      "population": 106113
+    },
+    {
+      "city": "Pompano Beach",
+      "state": "Florida",
+      "population": 106004
+    },
+    {
+      "city": "Daly City",
+      "state": "California",
+      "population": 105543
+    },
+    {
+      "city": "Boulder",
+      "state": "Colorado",
+      "population": 105420
+    },
+    {
+      "city": "Wichita Falls",
+      "state": "Texas",
+      "population": 105013
+    },
+    {
+      "city": "West Palm Beach",
+      "state": "Florida",
+      "population": 104978
+    },
+    {
+      "city": "Green Bay",
+      "state": "Wisconsin",
+      "population": 104951
+    },
+    {
+      "city": "Broken Arrow",
+      "state": "Oklahoma",
+      "population": 104869
+    },
+    {
+      "city": "College Station",
+      "state": "Texas",
+      "population": 104684
+    },
+    {
+      "city": "Burbank",
+      "state": "California",
+      "population": 104583
+    },
+    {
+      "city": "Santa Maria",
+      "state": "California",
+      "population": 103642
+    },
+    {
+      "city": "Columbia",
+      "state": "Maryland",
+      "population": 103439
+    },
+    {
+      "city": "Spring Hill",
+      "state": "Florida",
+      "population": 102929
+    },
+    {
+      "city": "El Cajon",
+      "state": "California",
+      "population": 102894
+    },
+    {
+      "city": "Lakeland",
+      "state": "Florida",
+      "population": 102714
+    },
+    {
+      "city": "Rialto",
+      "state": "California",
+      "population": 102418
+    },
+    {
+      "city": "Lewisville",
+      "state": "Texas",
+      "population": 102327
+    },
+    {
+      "city": "Davenport",
+      "state": "Iowa",
+      "population": 102305
+    },
+    {
+      "city": "San Mateo",
+      "state": "California",
+      "population": 102224
+    },
+    {
+      "city": "Sandy Springs",
+      "state": "Georgia",
+      "population": 102212
+    },
+    {
+      "city": "Clovis",
+      "state": "California",
+      "population": 102148
+    },
+    {
+      "city": "Tyler",
+      "state": "Texas",
+      "population": 101946
+    },
+    {
+      "city": "Las Cruces",
+      "state": "New Mexico",
+      "population": 101459
+    },
+    {
+      "city": "South Bend",
+      "state": "Indiana",
+      "population": 101037
+    },
+    {
+      "city": "Jurupa Valley",
+      "state": "California",
+      "population": 100737
+    },
+    {
+      "city": "Hillsboro",
+      "state": "Oregon",
+      "population": 100462
+    },
+    {
+      "city": "Erie",
+      "state": "Pennsylvania",
+      "population": 100157
+    },
+    {
+      "city": "Kenosha",
+      "state": "Wisconsin",
+      "population": 99865
+    },
+    {
+      "city": "Roanoke",
+      "state": "Virginia",
+      "population": 99329
+    },
+    {
+      "city": "Greeley",
+      "state": "Colorado",
+      "population": 98975
+    },
+    {
+      "city": "Flint",
+      "state": "Michigan",
+      "population": 98918
+    },
+    {
+      "city": "Davie",
+      "state": "Florida",
+      "population": 98717
+    },
+    {
+      "city": "San Angelo",
+      "state": "Texas",
+      "population": 98694
+    },
+    {
+      "city": "Vista",
+      "state": "California",
+      "population": 98560
+    },
+    {
+      "city": "Renton",
+      "state": "Washington",
+      "population": 98499
+    },
+    {
+      "city": "Albany",
+      "state": "New York",
+      "population": 98425
+    },
+    {
+      "city": "Compton",
+      "state": "California",
+      "population": 97740
+    },
+    {
+      "city": "Arden-Arcade",
+      "state": "California",
+      "population": 96898
+    },
+    {
+      "city": "Lawton",
+      "state": "Oklahoma",
+      "population": 96728
+    },
+    {
+      "city": "Tuscaloosa",
+      "state": "Alabama",
+      "population": 96352
+    },
+    {
+      "city": "Mission Viejo",
+      "state": "California",
+      "population": 96178
+    },
+    {
+      "city": "Portsmouth",
+      "state": "Virginia",
+      "population": 96071
+    },
+    {
+      "city": "Vacaville",
+      "state": "California",
+      "population": 95607
+    },
+    {
+      "city": "Dearborn",
+      "state": "Michigan",
+      "population": 95520
+    },
+    {
+      "city": "South Gate",
+      "state": "California",
+      "population": 95219
+    },
+    {
+      "city": "New Bedford",
+      "state": "Massachusetts",
+      "population": 94988
+    },
+    {
+      "city": "League City",
+      "state": "Texas",
+      "population": 94976
+    },
+    {
+      "city": "Beaverton",
+      "state": "Oregon",
+      "population": 94865
+    },
+    {
+      "city": "Livonia",
+      "state": "Michigan",
+      "population": 94849
+    },
+    {
+      "city": "Brockton",
+      "state": "Massachusetts",
+      "population": 94813
+    },
+    {
+      "city": "Sparks",
+      "state": "Nevada",
+      "population": 94718
+    },
+    {
+      "city": "Allen",
+      "state": "Texas",
+      "population": 94710
+    },
+    {
+      "city": "Lee's Summit",
+      "state": "Missouri",
+      "population": 94257
+    },
+    {
+      "city": "Federal Way",
+      "state": "Washington",
+      "population": 93986
+    },
+    {
+      "city": "Roswell",
+      "state": "Georgia",
+      "population": 93968
+    },
+    {
+      "city": "Yuma",
+      "state": "Arizona",
+      "population": 93704
+    },
+    {
+      "city": "Quincy",
+      "state": "Massachusetts",
+      "population": 93349
+    },
+    {
+      "city": "Yakima",
+      "state": "Washington",
+      "population": 93338
+    },
+    {
+      "city": "Spokane Valley",
+      "state": "Washington",
+      "population": 93322
+    },
+    {
+      "city": "Orem",
+      "state": "Utah",
+      "population": 93220
+    },
+    {
+      "city": "Sandy",
+      "state": "Utah",
+      "population": 93141
+    },
+    {
+      "city": "Rio Rancho",
+      "state": "New Mexico",
+      "population": 92966
+    },
+    {
+      "city": "Carson",
+      "state": "California",
+      "population": 92780
+    },
+    {
+      "city": "Hesperia",
+      "state": "California",
+      "population": 92664
+    },
+    {
+      "city": "Lawrence",
+      "state": "Kansas",
+      "population": 92611
+    },
+    {
+      "city": "Santa Monica",
+      "state": "California",
+      "population": 92247
+    },
+    {
+      "city": "Lynn",
+      "state": "Massachusetts",
+      "population": 92074
+    },
+    {
+      "city": "Miami Beach",
+      "state": "Florida",
+      "population": 91784
+    },
+    {
+      "city": "Boca Raton",
+      "state": "Florida",
+      "population": 91702
+    },
+    {
+      "city": "Westminster",
+      "state": "California",
+      "population": 91635
+    },
+    {
+      "city": "San Marcos",
+      "state": "California",
+      "population": 91479
+    },
+    {
+      "city": "Redding",
+      "state": "California",
+      "population": 91320
+    },
+    {
+      "city": "Sunrise",
+      "state": "Florida",
+      "population": 91177
+    },
+    {
+      "city": "Santa Barbara",
+      "state": "California",
+      "population": 90922
+    },
+    {
+      "city": "Plantation",
+      "state": "Florida",
+      "population": 90878
+    },
+    {
+      "city": "Longmont",
+      "state": "Colorado",
+      "population": 90719
+    },
+    {
+      "city": "Germantown",
+      "state": "Maryland",
+      "population": 90494
+    },
+    {
+      "city": "Greenville",
+      "state": "North Carolina",
+      "population": 89745
+    },
+    {
+      "city": "Chico",
+      "state": "California",
+      "population": 89377
+    },
+    {
+      "city": "San Leandro",
+      "state": "California",
+      "population": 89039
+    },
+    {
+      "city": "Fall River",
+      "state": "Massachusetts",
+      "population": 88902
+    },
+    {
+      "city": "Toms River",
+      "state": "New Jersey",
+      "population": 88537
+    },
+    {
+      "city": "San Tan Valley",
+      "state": "Arizona",
+      "population": 88507
+    },
+    {
+      "city": "Edmond",
+      "state": "Oklahoma",
+      "population": 88342
+    },
+    {
+      "city": "Newton",
+      "state": "Massachusetts",
+      "population": 88317
+    },
+    {
+      "city": "Meridian",
+      "state": "Idaho",
+      "population": 88247
+    },
+    {
+      "city": "Waukegan",
+      "state": "Illinois",
+      "population": 88159
+    },
+    {
+      "city": "Norwalk",
+      "state": "Connecticut",
+      "population": 87930
+    },
+    {
+      "city": "Reading",
+      "state": "Pennsylvania",
+      "population": 87899
+    },
+    {
+      "city": "Nampa",
+      "state": "Idaho",
+      "population": 87896
+    },
+    {
+      "city": "Fort Smith",
+      "state": "Arkansas",
+      "population": 87712
+    },
+    {
+      "city": "Asheville",
+      "state": "North Carolina",
+      "population": 87531
+    },
+    {
+      "city": "Deltona",
+      "state": "Florida",
+      "population": 87387
+    },
+    {
+      "city": "Nashua",
+      "state": "New Hampshire",
+      "population": 87279
+    },
+    {
+      "city": "Suffolk",
+      "state": "Virginia",
+      "population": 87061
+    },
+    {
+      "city": "Carmel",
+      "state": "Indiana",
+      "population": 86940
+    },
+    {
+      "city": "Hawthorne",
+      "state": "California",
+      "population": 86938
+    },
+    {
+      "city": "Alafaya",
+      "state": "Florida",
+      "population": 86868
+    },
+    {
+      "city": "Newport Beach",
+      "state": "California",
+      "population": 86813
+    },
+    {
+      "city": "Whittier",
+      "state": "California",
+      "population": 86630
+    },
+    {
+      "city": "Livermore",
+      "state": "California",
+      "population": 86493
+    },
+    {
+      "city": "Tracy",
+      "state": "California",
+      "population": 86382
+    },
+    {
+      "city": "Duluth",
+      "state": "Minnesota",
+      "population": 86164
+    },
+    {
+      "city": "Citrus Heights",
+      "state": "California",
+      "population": 85954
+    },
+    {
+      "city": "Fishers",
+      "state": "Indiana",
+      "population": 85887
+    },
+    {
+      "city": "Kirkland",
+      "state": "Washington",
+      "population": 85812
+    },
+    {
+      "city": "Concord",
+      "state": "North Carolina",
+      "population": 85753
+    },
+    {
+      "city": "Sugar Land",
+      "state": "Texas",
+      "population": 85681
+    },
+    {
+      "city": "Clifton",
+      "state": "New Jersey",
+      "population": 85578
+    },
+    {
+      "city": "Indio",
+      "state": "California",
+      "population": 85401
+    },
+    {
+      "city": "Bloomington",
+      "state": "Minnesota",
+      "population": 85080
+    },
+    {
+      "city": "Menifee",
+      "state": "California",
+      "population": 84978
+    },
+    {
+      "city": "Ogden",
+      "state": "Utah",
+      "population": 84900
+    },
+    {
+      "city": "Alhambra",
+      "state": "California",
+      "population": 84866
+    },
+    {
+      "city": "Champaign",
+      "state": "Illinois",
+      "population": 84672
+    },
+    {
+      "city": "Riverview",
+      "state": "Florida",
+      "population": 84590
+    },
+    {
+      "city": "Trenton",
+      "state": "New Jersey",
+      "population": 84559
+    },
+    {
+      "city": "Bellingham",
+      "state": "Washington",
+      "population": 84462
+    },
+    {
+      "city": "Bend",
+      "state": "Oregon",
+      "population": 84416
+    },
+    {
+      "city": "Edinburg",
+      "state": "Texas",
+      "population": 84399
+    },
+    {
+      "city": "Hoover",
+      "state": "Alabama",
+      "population": 84100
+    },
+    {
+      "city": "O'Fallon",
+      "state": "Missouri",
+      "population": 84018
+    },
+    {
+      "city": "Cicero",
+      "state": "Illinois",
+      "population": 83972
+    },
+    {
+      "city": "Danbury",
+      "state": "Connecticut",
+      "population": 83890
+    },
+    {
+      "city": "Chino",
+      "state": "California",
+      "population": 83670
+    },
+    {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "population": 83093
+    },
+    {
+      "city": "Troy",
+      "state": "Michigan",
+      "population": 82982
+    },
+    {
+      "city": "Johns Creek",
+      "state": "Georgia",
+      "population": 82930
+    },
+    {
+      "city": "Santa Fe",
+      "state": "New Mexico",
+      "population": 82927
+    },
+    {
+      "city": "Buena Park",
+      "state": "California",
+      "population": 82771
+    },
+    {
+      "city": "Hemet",
+      "state": "California",
+      "population": 82748
+    },
+    {
+      "city": "Sioux City",
+      "state": "Iowa",
+      "population": 82666
+    },
+    {
+      "city": "Redwood City",
+      "state": "California",
+      "population": 82595
+    },
+    {
+      "city": "Town 'n' Country",
+      "state": "Florida",
+      "population": 82554
+    },
+    {
+      "city": "Westland",
+      "state": "Michigan",
+      "population": 82218
+    },
+    {
+      "city": "Mission",
+      "state": "Texas",
+      "population": 82200
+    },
+    {
+      "city": "Longview",
+      "state": "Texas",
+      "population": 82184
+    },
+    {
+      "city": "Warwick",
+      "state": "Rhode Island",
+      "population": 81881
+    },
+    {
+      "city": "Merced",
+      "state": "California",
+      "population": 81461
+    },
+    {
+      "city": "Farmington Hills",
+      "state": "Michigan",
+      "population": 81154
+    },
+    {
+      "city": "Lakewood",
+      "state": "California",
+      "population": 81054
+    },
+    {
+      "city": "Palm Coast",
+      "state": "Florida",
+      "population": 80948
+    },
+    {
+      "city": "Cranston",
+      "state": "Rhode Island",
+      "population": 80882
+    },
+    {
+      "city": "Largo",
+      "state": "Florida",
+      "population": 80678
+    },
+    {
+      "city": "Lake Forest",
+      "state": "California",
+      "population": 80658
+    },
+    {
+      "city": "Avondale",
+      "state": "Arizona",
+      "population": 80631
+    },
+    {
+      "city": "Fayetteville",
+      "state": "Arkansas",
+      "population": 80552
+    },
+    {
+      "city": "Bryan",
+      "state": "Texas",
+      "population": 80552
+    },
+    {
+      "city": "Parma",
+      "state": "Ohio",
+      "population": 80088
+    },
+    {
+      "city": "Napa",
+      "state": "California",
+      "population": 79567
+    },
+    {
+      "city": "Somerville",
+      "state": "Massachusetts",
+      "population": 79507
+    },
+    {
+      "city": "Tustin",
+      "state": "California",
+      "population": 79396
+    },
+    {
+      "city": "Lawrence",
+      "state": "Massachusetts",
+      "population": 79337
+    },
+    {
+      "city": "New Rochelle",
+      "state": "New York",
+      "population": 79299
+    },
+    {
+      "city": "Melbourne",
+      "state": "Florida",
+      "population": 78911
+    },
+    {
+      "city": "Medford",
+      "state": "Oregon",
+      "population": 78856
+    },
+    {
+      "city": "Mountain View",
+      "state": "California",
+      "population": 78827
+    },
+    {
+      "city": "Brooklyn Park",
+      "state": "Minnesota",
+      "population": 78823
+    },
+    {
+      "city": "Lynchburg",
+      "state": "Virginia",
+      "population": 78755
+    },
+    {
+      "city": "Deerfield Beach",
+      "state": "Florida",
+      "population": 78642
+    },
+    {
+      "city": "St. George",
+      "state": "Utah",
+      "population": 78573
+    },
+    {
+      "city": "Bloomington",
+      "state": "Illinois",
+      "population": 78368
+    },
+    {
+      "city": "Hammond",
+      "state": "Indiana",
+      "population": 78349
+    },
+    {
+      "city": "Caguas",
+      "state": "Puerto Rico",
+      "population": 78225
+    },
+    {
+      "city": "Silver Spring",
+      "state": "Maryland",
+      "population": 78038
+    },
+    {
+      "city": "Kennewick",
+      "state": "Washington",
+      "population": 77975
+    },
+    {
+      "city": "Racine",
+      "state": "Wisconsin",
+      "population": 77931
+    },
+    {
+      "city": "Mount Pleasant",
+      "state": "South Carolina",
+      "population": 77907
+    },
+    {
+      "city": "Gary",
+      "state": "Indiana",
+      "population": 77858
+    },
+    {
+      "city": "Bellflower",
+      "state": "California",
+      "population": 77687
+    },
+    {
+      "city": "Alameda",
+      "state": "California",
+      "population": 77409
+    },
+    {
+      "city": "Chino Hills",
+      "state": "California",
+      "population": 77266
+    },
+    {
+      "city": "Pleasanton",
+      "state": "California",
+      "population": 77046
+    },
+    {
+      "city": "St. Joseph",
+      "state": "Missouri",
+      "population": 76901
+    },
+    {
+      "city": "Baldwin Park",
+      "state": "California",
+      "population": 76511
+    },
+    {
+      "city": "Scranton",
+      "state": "Pennsylvania",
+      "population": 76380
+    },
+    {
+      "city": "Springdale",
+      "state": "Arkansas",
+      "population": 76188
+    },
+    {
+      "city": "Camden",
+      "state": "New Jersey",
+      "population": 76005
+    },
+    {
+      "city": "Kalamazoo",
+      "state": "Michigan",
+      "population": 75885
+    },
+    {
+      "city": "Upland",
+      "state": "California",
+      "population": 75851
+    },
+    {
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "population": 75721
+    },
+    {
+      "city": "Albany",
+      "state": "Georgia",
+      "population": 75657
+    },
+    {
+      "city": "Auburn",
+      "state": "Washington",
+      "population": 75607
+    },
+    {
+      "city": "Evanston",
+      "state": "Illinois",
+      "population": 75472
+    },
+    {
+      "city": "Baytown",
+      "state": "Texas",
+      "population": 75310
+    },
+    {
+      "city": "Pharr",
+      "state": "Texas",
+      "population": 75172
+    },
+    {
+      "city": "Bethlehem",
+      "state": "Pennsylvania",
+      "population": 75110
+    },
+    {
+      "city": "Plymouth",
+      "state": "Minnesota",
+      "population": 75105
+    },
+    {
+      "city": "Lake Charles",
+      "state": "Louisiana",
+      "population": 75044
+    },
+    {
+      "city": "Folsom",
+      "state": "California",
+      "population": 74960
+    },
+    {
+      "city": "Wyoming",
+      "state": "Michigan",
+      "population": 74692
+    },
+    {
+      "city": "Cheektowaga",
+      "state": "New York",
+      "population": 74673
+    },
+    {
+      "city": "Kendall",
+      "state": "Florida",
+      "population": 74559
+    },
+    {
+      "city": "Conroe",
+      "state": "Texas",
+      "population": 74482
+    },
+    {
+      "city": "San Ramon",
+      "state": "California",
+      "population": 74366
+    },
+    {
+      "city": "Schaumburg",
+      "state": "Illinois",
+      "population": 74366
+    },
+    {
+      "city": "Bolingbrook",
+      "state": "Illinois",
+      "population": 74320
+    },
+    {
+      "city": "Decatur",
+      "state": "Illinois",
+      "population": 74063
+    },
+    {
+      "city": "Gastonia",
+      "state": "North Carolina",
+      "population": 73877
+    },
+    {
+      "city": "Perris",
+      "state": "California",
+      "population": 73718
+    },
+    {
+      "city": "Manteca",
+      "state": "California",
+      "population": 73570
+    },
+    {
+      "city": "Union City",
+      "state": "California",
+      "population": 73500
+    },
+    {
+      "city": "Milpitas",
+      "state": "California",
+      "population": 73447
+    },
+    {
+      "city": "Appleton",
+      "state": "Wisconsin",
+      "population": 73446
+    },
+    {
+      "city": "Dale City",
+      "state": "Virginia",
+      "population": 73384
+    },
+    {
+      "city": "Loveland",
+      "state": "Colorado",
+      "population": 73360
+    },
+    {
+      "city": "Warner Robins",
+      "state": "Georgia",
+      "population": 73265
+    },
+    {
+      "city": "Centreville",
+      "state": "Virginia",
+      "population": 73084
+    },
+    {
+      "city": "Southfield",
+      "state": "Michigan",
+      "population": 73055
+    },
+    {
+      "city": "Rochester Hills",
+      "state": "Michigan",
+      "population": 72987
+    },
+    {
+      "city": "New Britain",
+      "state": "Connecticut",
+      "population": 72876
+    },
+    {
+      "city": "Boynton Beach",
+      "state": "Florida",
+      "population": 72748
+    },
+    {
+      "city": "Atascocita",
+      "state": "Texas",
+      "population": 72713
+    },
+    {
+      "city": "Jonesboro",
+      "state": "Arkansas",
+      "population": 72638
+    },
+    {
+      "city": "Goodyear",
+      "state": "Arizona",
+      "population": 72629
+    },
+    {
+      "city": "Rapid City",
+      "state": "South Dakota",
+      "population": 72441
+    },
+    {
+      "city": "Waldorf",
+      "state": "Maryland",
+      "population": 72413
+    },
+    {
+      "city": "Layton",
+      "state": "Utah",
+      "population": 72413
+    },
+    {
+      "city": "Iowa City",
+      "state": "Iowa",
+      "population": 72385
+    },
+    {
+      "city": "Canton",
+      "state": "Ohio",
+      "population": 72163
+    },
+    {
+      "city": "Waukesha",
+      "state": "Wisconsin",
+      "population": 72016
+    },
+    {
+      "city": "Missouri City",
+      "state": "Texas",
+      "population": 71732
+    },
+    {
+      "city": "Guaynabo",
+      "state": "Puerto Rico",
+      "population": 71667
+    },
+    {
+      "city": "Wilmington",
+      "state": "Delaware",
+      "population": 71502
+    },
+    {
+      "city": "Apple Valley",
+      "state": "California",
+      "population": 71455
+    },
+    {
+      "city": "Pawtucket",
+      "state": "Rhode Island",
+      "population": 71389
+    },
+    {
+      "city": "Gulfport",
+      "state": "Mississippi",
+      "population": 71265
+    },
+    {
+      "city": "Lafayette",
+      "state": "Indiana",
+      "population": 71249
+    },
+    {
+      "city": "Lynwood",
+      "state": "California",
+      "population": 71233
+    },
+    {
+      "city": "Turlock",
+      "state": "California",
+      "population": 71166
+    },
+    {
+      "city": "Temple",
+      "state": "Texas",
+      "population": 71138
+    },
+    {
+      "city": "Fort Myers",
+      "state": "Florida",
+      "population": 71051
+    },
+    {
+      "city": "Ellicott City",
+      "state": "Maryland",
+      "population": 70780
+    },
+    {
+      "city": "Framingham",
+      "state": "Massachusetts",
+      "population": 70743
+    },
+    {
+      "city": "Franklin",
+      "state": "Tennessee",
+      "population": 70625
+    },
+    {
+      "city": "Passaic",
+      "state": "New Jersey",
+      "population": 70536
+    },
+    {
+      "city": "Lauderhill",
+      "state": "Florida",
+      "population": 70452
+    },
+    {
+      "city": "Redlands",
+      "state": "California",
+      "population": 70442
+    },
+    {
+      "city": "Rock Hill",
+      "state": "South Carolina",
+      "population": 70251
+    },
+    {
+      "city": "Missoula",
+      "state": "Montana",
+      "population": 70117
+    },
+    {
+      "city": "Flower Mound",
+      "state": "Texas",
+      "population": 69966
+    },
+    {
+      "city": "Pine Hills",
+      "state": "Florida",
+      "population": 69733
+    },
+    {
+      "city": "Muncie",
+      "state": "Indiana",
+      "population": 69583
+    },
+    {
+      "city": "Rancho Cordova",
+      "state": "California",
+      "population": 69482
+    },
+    {
+      "city": "The Villages",
+      "state": "Florida",
+      "population": 69457
+    },
+    {
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "population": 69270
+    },
+    {
+      "city": "Palatine",
+      "state": "Illinois",
+      "population": 69098
+    },
+    {
+      "city": "Glen Burnie",
+      "state": "Maryland",
+      "population": 69060
+    },
+    {
+      "city": "Bismarck",
+      "state": "North Dakota",
+      "population": 68981
+    },
+    {
+      "city": "Union City",
+      "state": "New Jersey",
+      "population": 68965
+    },
+    {
+      "city": "Weston",
+      "state": "Florida",
+      "population": 68893
+    },
+    {
+      "city": "Casas Adobes",
+      "state": "Arizona",
+      "population": 68695
+    },
+    {
+      "city": "Pasco",
+      "state": "Washington",
+      "population": 68567
+    },
+    {
+      "city": "Jacksonville",
+      "state": "North Carolina",
+      "population": 68404
+    },
+    {
+      "city": "Waterloo",
+      "state": "Iowa",
+      "population": 68357
+    },
+    {
+      "city": "St. Charles",
+      "state": "Missouri",
+      "population": 68341
+    },
+    {
+      "city": "Frederick",
+      "state": "Maryland",
+      "population": 68229
+    },
+    {
+      "city": "Mount Vernon",
+      "state": "New York",
+      "population": 68217
+    },
+    {
+      "city": "Dothan",
+      "state": "Alabama",
+      "population": 68066
+    },
+    {
+      "city": "Pittsburg",
+      "state": "California",
+      "population": 67998
+    },
+    {
+      "city": "North Richland Hills",
+      "state": "Texas",
+      "population": 67994
+    },
+    {
+      "city": "Redondo Beach",
+      "state": "California",
+      "population": 67664
+    },
+    {
+      "city": "Eau Claire",
+      "state": "Wisconsin",
+      "population": 67654
+    },
+    {
+      "city": "Walnut Creek",
+      "state": "California",
+      "population": 67568
+    },
+    {
+      "city": "Yorba Linda",
+      "state": "California",
+      "population": 67362
+    },
+    {
+      "city": "Jackson",
+      "state": "Tennessee",
+      "population": 67162
+    },
+    {
+      "city": "Bossier City",
+      "state": "Louisiana",
+      "population": 67152
+    },
+    {
+      "city": "New Braunfels",
+      "state": "Texas",
+      "population": 67097
+    },
+    {
+      "city": "Maple Grove",
+      "state": "Minnesota",
+      "population": 66969
+    },
+    {
+      "city": "Kenner",
+      "state": "Louisiana",
+      "population": 66954
+    },
+    {
+      "city": "Davis",
+      "state": "California",
+      "population": 66886
+    },
+    {
+      "city": "Kissimmee",
+      "state": "Florida",
+      "population": 66840
+    },
+    {
+      "city": "St. Cloud",
+      "state": "Minnesota",
+      "population": 66770
+    },
+    {
+      "city": "Oshkosh",
+      "state": "Wisconsin",
+      "population": 66713
+    },
+    {
+      "city": "Woodbury",
+      "state": "Minnesota",
+      "population": 66699
+    },
+    {
+      "city": "Palo Alto",
+      "state": "California",
+      "population": 66649
+    },
+    {
+      "city": "Portland",
+      "state": "Maine",
+      "population": 66649
+    },
+    {
+      "city": "Camarillo",
+      "state": "California",
+      "population": 66630
+    },
+    {
+      "city": "South San Francisco",
+      "state": "California",
+      "population": 66587
+    },
+    {
+      "city": "Yuba City",
+      "state": "California",
+      "population": 66147
+    },
+    {
+      "city": "Victoria",
+      "state": "Texas",
+      "population": 66139
+    },
+    {
+      "city": "Gaithersburg",
+      "state": "Maryland",
+      "population": 66104
+    },
+    {
+      "city": "North Little Rock",
+      "state": "Arkansas",
+      "population": 66042
+    },
+    {
+      "city": "Eagan",
+      "state": "Minnesota",
+      "population": 65874
+    },
+    {
+      "city": "Bayonne",
+      "state": "New Jersey",
+      "population": 65772
+    },
+    {
+      "city": "Homestead",
+      "state": "Florida",
+      "population": 65688
+    },
+    {
+      "city": "Harlingen",
+      "state": "Texas",
+      "population": 65634
+    },
+    {
+      "city": "Schenectady",
+      "state": "New York",
+      "population": 65554
+    },
+    {
+      "city": "Johnson City",
+      "state": "Tennessee",
+      "population": 65415
+    },
+    {
+      "city": "Mayaguez",
+      "state": "Puerto Rico",
+      "population": 65396
+    },
+    {
+      "city": "Rockville",
+      "state": "Maryland",
+      "population": 65171
+    },
+    {
+      "city": "Youngstown",
+      "state": "Ohio",
+      "population": 65161
+    },
+    {
+      "city": "San Clemente",
+      "state": "California",
+      "population": 65082
+    },
+    {
+      "city": "Delray Beach",
+      "state": "Florida",
+      "population": 65044
+    },
+    {
+      "city": "Laguna Niguel",
+      "state": "California",
+      "population": 64984
+    },
+    {
+      "city": "Marysville",
+      "state": "Washington",
+      "population": 64955
+    },
+    {
+      "city": "Skokie",
+      "state": "Illinois",
+      "population": 64873
+    },
+    {
+      "city": "East Orange",
+      "state": "New Jersey",
+      "population": 64621
+    },
+    {
+      "city": "Shawnee",
+      "state": "Kansas",
+      "population": 64444
+    },
+    {
+      "city": "Conway",
+      "state": "Arkansas",
+      "population": 64184
+    },
+    {
+      "city": "Daytona Beach",
+      "state": "Florida",
+      "population": 64105
+    },
+    {
+      "city": "Ames",
+      "state": "Iowa",
+      "population": 64073
+    },
+    {
+      "city": "Janesville",
+      "state": "Wisconsin",
+      "population": 63880
+    },
+    {
+      "city": "Lodi",
+      "state": "California",
+      "population": 63842
+    },
+    {
+      "city": "Tamarac",
+      "state": "Florida",
+      "population": 63747
+    },
+    {
+      "city": "Pico Rivera",
+      "state": "California",
+      "population": 63724
+    },
+    {
+      "city": "Lorain",
+      "state": "Ohio",
+      "population": 63714
+    },
+    {
+      "city": "Carmichael",
+      "state": "California",
+      "population": 63631
+    },
+    {
+      "city": "Cedar Park",
+      "state": "Texas",
+      "population": 63551
+    },
+    {
+      "city": "Montebello",
+      "state": "California",
+      "population": 63416
+    },
+    {
+      "city": "Madera",
+      "state": "California",
+      "population": 63398
+    },
+    {
+      "city": "Florence-Graham",
+      "state": "California",
+      "population": 63390
+    },
+    {
+      "city": "Santa Cruz",
+      "state": "California",
+      "population": 63310
+    },
+    {
+      "city": "Eden Prairie",
+      "state": "Minnesota",
+      "population": 63206
+    },
+    {
+      "city": "West Hartford",
+      "state": "Connecticut",
+      "population": 63187
+    },
+    {
+      "city": "Mansfield",
+      "state": "Texas",
+      "population": 63141
+    },
+    {
+      "city": "Alpharetta",
+      "state": "Georgia",
+      "population": 63013
+    },
+    {
+      "city": "Cheyenne",
+      "state": "Wyoming",
+      "population": 62879
+    },
+    {
+      "city": "Castro Valley",
+      "state": "California",
+      "population": 62825
+    },
+    {
+      "city": "Bowling Green",
+      "state": "Kentucky",
+      "population": 62824
+    },
+    {
+      "city": "Greenville",
+      "state": "South Carolina",
+      "population": 62776
+    },
+    {
+      "city": "South Jordan",
+      "state": "Utah",
+      "population": 62751
+    },
+    {
+      "city": "Waltham",
+      "state": "Massachusetts",
+      "population": 62699
+    },
+    {
+      "city": "Bethesda",
+      "state": "Maryland",
+      "population": 62608
+    },
+    {
+      "city": "Broomfield",
+      "state": "Colorado",
+      "population": 62449
+    },
+    {
+      "city": "Haverhill",
+      "state": "Massachusetts",
+      "population": 62340
+    },
+    {
+      "city": "Dundalk",
+      "state": "Maryland",
+      "population": 62337
+    },
+    {
+      "city": "Council Bluffs",
+      "state": "Iowa",
+      "population": 62326
+    },
+    {
+      "city": "Hamilton",
+      "state": "Ohio",
+      "population": 62259
+    },
+    {
+      "city": "Encinitas",
+      "state": "California",
+      "population": 62160
+    },
+    {
+      "city": "Coon Rapids",
+      "state": "Minnesota",
+      "population": 62159
+    },
+    {
+      "city": "North Miami",
+      "state": "Florida",
+      "population": 62158
+    },
+    {
+      "city": "Poinciana",
+      "state": "Florida",
+      "population": 62145
+    },
+    {
+      "city": "Sammamish",
+      "state": "Washington",
+      "population": 62136
+    },
+    {
+      "city": "Rogers",
+      "state": "Arkansas",
+      "population": 61979
+    },
+    {
+      "city": "Taylor",
+      "state": "Michigan",
+      "population": 61716
+    },
+    {
+      "city": "Tulare",
+      "state": "California",
+      "population": 61664
+    },
+    {
+      "city": "La Habra",
+      "state": "California",
+      "population": 61660
+    },
+    {
+      "city": "West Des Moines",
+      "state": "Iowa",
+      "population": 61624
+    },
+    {
+      "city": "Brentwood",
+      "state": "New York",
+      "population": 61438
+    },
+    {
+      "city": "Wellington",
+      "state": "Florida",
+      "population": 61371
+    },
+    {
+      "city": "Utica",
+      "state": "New York",
+      "population": 61337
+    },
+    {
+      "city": "Blaine",
+      "state": "Minnesota",
+      "population": 61210
+    },
+    {
+      "city": "Millcreek",
+      "state": "Utah",
+      "population": 61191
+    },
+    {
+      "city": "Burnsville",
+      "state": "Minnesota",
+      "population": 61158
+    },
+    {
+      "city": "Terre Haute",
+      "state": "Indiana",
+      "population": 61021
+    },
+    {
+      "city": "Monterey Park",
+      "state": "California",
+      "population": 61001
+    },
+    {
+      "city": "Vineland",
+      "state": "New Jersey",
+      "population": 60876
+    },
+    {
+      "city": "North Port",
+      "state": "Florida",
+      "population": 60871
+    },
+    {
+      "city": "Malden",
+      "state": "Massachusetts",
+      "population": 60732
+    },
+    {
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "population": 60630
+    },
+    {
+      "city": "Springfield",
+      "state": "Oregon",
+      "population": 60611
+    },
+    {
+      "city": "Jupiter",
+      "state": "Florida",
+      "population": 60597
+    },
+    {
+      "city": "West Allis",
+      "state": "Wisconsin",
+      "population": 60543
+    },
+    {
+      "city": "Rocklin",
+      "state": "California",
+      "population": 60509
+    },
+    {
+      "city": "Taylorsville",
+      "state": "Utah",
+      "population": 60448
+    },
+    {
+      "city": "Bristol",
+      "state": "Connecticut",
+      "population": 60437
+    },
+    {
+      "city": "National City",
+      "state": "California",
+      "population": 60349
+    },
+    {
+      "city": "Auburn",
+      "state": "Alabama",
+      "population": 60318
+    },
+    {
+      "city": "Cupertino",
+      "state": "California",
+      "population": 60297
+    },
+    {
+      "city": "Palm Harbor",
+      "state": "Florida",
+      "population": 60236
+    },
+    {
+      "city": "Lake Elsinore",
+      "state": "California",
+      "population": 60230
+    },
+    {
+      "city": "Meriden",
+      "state": "Connecticut",
+      "population": 60203
+    },
+    {
+      "city": "Reston",
+      "state": "Virginia",
+      "population": 60070
+    },
+    {
+      "city": "Pontiac",
+      "state": "Michigan",
+      "population": 59920
+    },
+    {
+      "city": "St. Clair Shores",
+      "state": "Michigan",
+      "population": 59916
+    },
+    {
+      "city": "Gardena",
+      "state": "California",
+      "population": 59898
+    },
+    {
+      "city": "Lakeville",
+      "state": "Minnesota",
+      "population": 59786
+    },
+    {
+      "city": "Springfield",
+      "state": "Ohio",
+      "population": 59761
+    },
+    {
+      "city": "Petaluma",
+      "state": "California",
+      "population": 59757
+    },
+    {
+      "city": "Marietta",
+      "state": "Georgia",
+      "population": 59714
+    },
+    {
+      "city": "Moore",
+      "state": "Oklahoma",
+      "population": 59501
+    },
+    {
+      "city": "Lakewood",
+      "state": "Washington",
+      "population": 59489
+    },
+    {
+      "city": "Great Falls",
+      "state": "Montana",
+      "population": 59479
+    },
+    {
+      "city": "Georgetown",
+      "state": "Texas",
+      "population": 59436
+    },
+    {
+      "city": "Casper",
+      "state": "Wyoming",
+      "population": 59397
+    },
+    {
+      "city": "Lancaster",
+      "state": "Pennsylvania",
+      "population": 59341
+    },
+    {
+      "city": "South Whittier",
+      "state": "California",
+      "population": 59313
+    },
+    {
+      "city": "Buckeye",
+      "state": "Arizona",
+      "population": 59310
+    },
+    {
+      "city": "Redmond",
+      "state": "Washington",
+      "population": 59268
+    },
+    {
+      "city": "Kendale Lakes",
+      "state": "Florida",
+      "population": 59217
+    },
+    {
+      "city": "Rowlett",
+      "state": "Texas",
+      "population": 59203
+    },
+    {
+      "city": "Brookline",
+      "state": "Massachusetts",
+      "population": 59180
+    },
+    {
+      "city": "La Mesa",
+      "state": "California",
+      "population": 59125
+    },
+    {
+      "city": "Chapel Hill",
+      "state": "North Carolina",
+      "population": 59005
+    },
+    {
+      "city": "San Rafael",
+      "state": "California",
+      "population": 58948
+    },
+    {
+      "city": "Idaho Falls",
+      "state": "Idaho",
+      "population": 58933
+    },
+    {
+      "city": "Huntington Park",
+      "state": "California",
+      "population": 58921
+    },
+    {
+      "city": "Royal Oak",
+      "state": "Michigan",
+      "population": 58823
+    },
+    {
+      "city": "Port Orange",
+      "state": "Florida",
+      "population": 58780
+    },
+    {
+      "city": "Des Plaines",
+      "state": "Illinois",
+      "population": 58755
+    },
+    {
+      "city": "Noblesville",
+      "state": "Indiana",
+      "population": 58719
+    },
+    {
+      "city": "Owensboro",
+      "state": "Kentucky",
+      "population": 58685
+    },
+    {
+      "city": "Orland Park",
+      "state": "Illinois",
+      "population": 58612
+    },
+    {
+      "city": "Spring",
+      "state": "Texas",
+      "population": 58608
+    },
+    {
+      "city": "Dubuque",
+      "state": "Iowa",
+      "population": 58535
+    },
+    {
+      "city": "Porterville",
+      "state": "California",
+      "population": 58472
+    },
+    {
+      "city": "Bartlett",
+      "state": "Tennessee",
+      "population": 58318
+    },
+    {
+      "city": "Novi",
+      "state": "Michigan",
+      "population": 58233
+    },
+    {
+      "city": "Eastvale",
+      "state": "California",
+      "population": 58217
+    },
+    {
+      "city": "Towson",
+      "state": "Maryland",
+      "population": 58189
+    },
+    {
+      "city": "Kokomo",
+      "state": "Indiana",
+      "population": 58075
+    },
+    {
+      "city": "Port Charlotte",
+      "state": "Florida",
+      "population": 58001
+    },
+    {
+      "city": "White Plains",
+      "state": "New York",
+      "population": 57925
+    },
+    {
+      "city": "Ocala",
+      "state": "Florida",
+      "population": 57873
+    },
+    {
+      "city": "Tonawanda",
+      "state": "New York",
+      "population": 57844
+    },
+    {
+      "city": "Tamiami",
+      "state": "Florida",
+      "population": 57796
+    },
+    {
+      "city": "Arcadia",
+      "state": "California",
+      "population": 57755
+    },
+    {
+      "city": "San Marcos",
+      "state": "Texas",
+      "population": 57743
+    },
+    {
+      "city": "Coconut Creek",
+      "state": "Florida",
+      "population": 57731
+    },
+    {
+      "city": "Bowie",
+      "state": "Maryland",
+      "population": 57633
+    },
+    {
+      "city": "Woodland",
+      "state": "California",
+      "population": 57552
+    },
+    {
+      "city": "Fountainebleau",
+      "state": "Florida",
+      "population": 57357
+    },
+    {
+      "city": "Medford",
+      "state": "Massachusetts",
+      "population": 57180
+    },
+    {
+      "city": "Tinley Park",
+      "state": "Illinois",
+      "population": 57125
+    },
+    {
+      "city": "Sanford",
+      "state": "Florida",
+      "population": 57039
+    },
+    {
+      "city": "Midwest City",
+      "state": "Oklahoma",
+      "population": 56930
+    },
+    {
+      "city": "Brentwood",
+      "state": "California",
+      "population": 56923
+    },
+    {
+      "city": "Santee",
+      "state": "California",
+      "population": 56839
+    },
+    {
+      "city": "Oak Lawn",
+      "state": "Illinois",
+      "population": 56774
+    },
+    {
+      "city": "Valdosta",
+      "state": "Georgia",
+      "population": 56717
+    },
+    {
+      "city": "Fountain Valley",
+      "state": "California",
+      "population": 56670
+    },
+    {
+      "city": "Taunton",
+      "state": "Massachusetts",
+      "population": 56504
+    },
+    {
+      "city": "Diamond Bar",
+      "state": "California",
+      "population": 56456
+    },
+    {
+      "city": "New Brunswick",
+      "state": "New Jersey",
+      "population": 56427
+    },
+    {
+      "city": "Berwyn",
+      "state": "Illinois",
+      "population": 56414
+    },
+    {
+      "city": "Dearborn Heights",
+      "state": "Michigan",
+      "population": 56329
+    },
+    {
+      "city": "Lehi",
+      "state": "Utah",
+      "population": 56314
+    },
+    {
+      "city": "Margate",
+      "state": "Florida",
+      "population": 56245
+    },
+    {
+      "city": "Rocky Mount",
+      "state": "North Carolina",
+      "population": 56175
+    },
+    {
+      "city": "The Hammocks",
+      "state": "Florida",
+      "population": 56105
+    },
+    {
+      "city": "Chicopee",
+      "state": "Massachusetts",
+      "population": 56100
+    },
+    {
+      "city": "Manhattan",
+      "state": "Kansas",
+      "population": 55909
+    },
+    {
+      "city": "Grand Forks",
+      "state": "North Dakota",
+      "population": 55831
+    },
+    {
+      "city": "St. Peters",
+      "state": "Missouri",
+      "population": 55820
+    },
+    {
+      "city": "Corvallis",
+      "state": "Oregon",
+      "population": 55766
+    },
+    {
+      "city": "Kettering",
+      "state": "Ohio",
+      "population": 55720
+    },
+    {
+      "city": "Pflugerville",
+      "state": "Texas",
+      "population": 55712
+    },
+    {
+      "city": "Weymouth Town",
+      "state": "Massachusetts",
+      "population": 55601
+    },
+    {
+      "city": "Hempstead",
+      "state": "New York",
+      "population": 55454
+    },
+    {
+      "city": "Decatur",
+      "state": "Alabama",
+      "population": 55419
+    },
+    {
+      "city": "Anderson",
+      "state": "Indiana",
+      "population": 55342
+    },
+    {
+      "city": "South Hill",
+      "state": "Washington",
+      "population": 55194
+    },
+    {
+      "city": "Hendersonville",
+      "state": "Tennessee",
+      "population": 55073
+    },
+    {
+      "city": "Shoreline",
+      "state": "Washington",
+      "population": 55021
+    },
+    {
+      "city": "West Haven",
+      "state": "Connecticut",
+      "population": 54972
+    },
+    {
+      "city": "Paramount",
+      "state": "California",
+      "population": 54941
+    },
+    {
+      "city": "Port Arthur",
+      "state": "Texas",
+      "population": 54913
+    },
+    {
+      "city": "Hanford",
+      "state": "California",
+      "population": 54912
+    },
+    {
+      "city": "Aloha",
+      "state": "Oregon",
+      "population": 54908
+    },
+    {
+      "city": "Novato",
+      "state": "California",
+      "population": 54790
+    },
+    {
+      "city": "Smyrna",
+      "state": "Georgia",
+      "population": 54788
+    },
+    {
+      "city": "Lakewood",
+      "state": "New Jersey",
+      "population": 54679
+    },
+    {
+      "city": "Pocatello",
+      "state": "Idaho",
+      "population": 54592
+    },
+    {
+      "city": "Greenwood",
+      "state": "Indiana",
+      "population": 54564
+    },
+    {
+      "city": "Mount Prospect",
+      "state": "Illinois",
+      "population": 54552
+    },
+    {
+      "city": "Normal",
+      "state": "Illinois",
+      "population": 54534
+    },
+    {
+      "city": "Dublin",
+      "state": "California",
+      "population": 54523
+    },
+    {
+      "city": "Rosemead",
+      "state": "California",
+      "population": 54507
+    },
+    {
+      "city": "Highland",
+      "state": "California",
+      "population": 54490
+    },
+    {
+      "city": "Sarasota",
+      "state": "Florida",
+      "population": 54425
+    },
+    {
+      "city": "Carson City",
+      "state": "Nevada",
+      "population": 54412
+    },
+    {
+      "city": "Hacienda Heights",
+      "state": "California",
+      "population": 54033
+    },
+    {
+      "city": "Elyria",
+      "state": "Ohio",
+      "population": 53928
+    },
+    {
+      "city": "Colton",
+      "state": "California",
+      "population": 53856
+    },
+    {
+      "city": "Castle Rock",
+      "state": "Colorado",
+      "population": 53789
+    },
+    {
+      "city": "Euless",
+      "state": "Texas",
+      "population": 53675
+    },
+    {
+      "city": "Blue Springs",
+      "state": "Missouri",
+      "population": 53641
+    },
+    {
+      "city": "Wheaton",
+      "state": "Illinois",
+      "population": 53568
+    },
+    {
+      "city": "Doral",
+      "state": "Florida",
+      "population": 53426
+    },
+    {
+      "city": "Ankeny",
+      "state": "Iowa",
+      "population": 53413
+    },
+    {
+      "city": "Cathedral City",
+      "state": "California",
+      "population": 53268
+    },
+    {
+      "city": "Pensacola",
+      "state": "Florida",
+      "population": 53250
+    },
+    {
+      "city": "Richland",
+      "state": "Washington",
+      "population": 53227
+    },
+    {
+      "city": "Revere",
+      "state": "Massachusetts",
+      "population": 53165
+    },
+    {
+      "city": "Hoboken",
+      "state": "New Jersey",
+      "population": 53136
+    },
+    {
+      "city": "Lake Havasu City",
+      "state": "Arizona",
+      "population": 53058
+    },
+    {
+      "city": "Bellevue",
+      "state": "Nebraska",
+      "population": 52993
+    },
+    {
+      "city": "Bradenton",
+      "state": "Florida",
+      "population": 52985
+    },
+    {
+      "city": "Watsonville",
+      "state": "California",
+      "population": 52915
+    },
+    {
+      "city": "Yucaipa",
+      "state": "California",
+      "population": 52886
+    },
+    {
+      "city": "Kingsport",
+      "state": "Tennessee",
+      "population": 52871
+    },
+    {
+      "city": "Gilroy",
+      "state": "California",
+      "population": 52576
+    },
+    {
+      "city": "Burlington",
+      "state": "North Carolina",
+      "population": 52570
+    },
+    {
+      "city": "Delano",
+      "state": "California",
+      "population": 52538
+    },
+    {
+      "city": "West New York",
+      "state": "New Jersey",
+      "population": 52407
+    },
+    {
+      "city": "Levittown",
+      "state": "Pennsylvania",
+      "population": 52407
+    },
+    {
+      "city": "Elkhart",
+      "state": "Indiana",
+      "population": 52378
+    },
+    {
+      "city": "Stratford",
+      "state": "Connecticut",
+      "population": 52300
+    },
+    {
+      "city": "Perth Amboy",
+      "state": "New Jersey",
+      "population": 52265
+    },
+    {
+      "city": "Peabody",
+      "state": "Massachusetts",
+      "population": 52235
+    },
+    {
+      "city": "Florissant",
+      "state": "Missouri",
+      "population": 52218
+    },
+    {
+      "city": "Placentia",
+      "state": "California",
+      "population": 52168
+    },
+    {
+      "city": "La Crosse",
+      "state": "Wisconsin",
+      "population": 52140
+    },
+    {
+      "city": "Aspen Hill",
+      "state": "Maryland",
+      "population": 52028
+    },
+    {
+      "city": "Milford",
+      "state": "Connecticut",
+      "population": 52005
+    },
+    {
+      "city": "Oak Park",
+      "state": "Illinois",
+      "population": 51989
+    },
+    {
+      "city": "Harrisonburg",
+      "state": "Virginia",
+      "population": 51979
+    },
+    {
+      "city": "Albany",
+      "state": "Oregon",
+      "population": 51919
+    },
+    {
+      "city": "Palm Beach Gardens",
+      "state": "Florida",
+      "population": 51865
+    },
+    {
+      "city": "DeSoto",
+      "state": "Texas",
+      "population": 51854
+    },
+    {
+      "city": "Southaven",
+      "state": "Mississippi",
+      "population": 51816
+    },
+    {
+      "city": "Battle Creek",
+      "state": "Michigan",
+      "population": 51763
+    },
+    {
+      "city": "Commerce City",
+      "state": "Colorado",
+      "population": 51731
+    },
+    {
+      "city": "Hoffman Estates",
+      "state": "Illinois",
+      "population": 51727
+    },
+    {
+      "city": "Huntersville",
+      "state": "North Carolina",
+      "population": 51701
+    },
+    {
+      "city": "Minnetonka",
+      "state": "Minnesota",
+      "population": 51651
+    },
+    {
+      "city": "Casa Grande",
+      "state": "Arizona",
+      "population": 51571
+    },
+    {
+      "city": "Brookhaven",
+      "state": "Georgia",
+      "population": 51567
+    },
+    {
+      "city": "West Sacramento",
+      "state": "California",
+      "population": 51386
+    },
+    {
+      "city": "Catalina Foothills",
+      "state": "Arizona",
+      "population": 51329
+    },
+    {
+      "city": "Glendora",
+      "state": "California",
+      "population": 51285
+    },
+    {
+      "city": "Joplin",
+      "state": "Missouri",
+      "population": 51231
+    },
+    {
+      "city": "Wesley Chapel",
+      "state": "Florida",
+      "population": 51229
+    },
+    {
+      "city": "Lenexa",
+      "state": "Kansas",
+      "population": 51206
+    },
+    {
+      "city": "Irondequoit",
+      "state": "New York",
+      "population": 51135
+    },
+    {
+      "city": "Levittown",
+      "state": "New York",
+      "population": 51073
+    },
+    {
+      "city": "Palm Desert",
+      "state": "California",
+      "population": 51045
+    },
+    {
+      "city": "Pinellas Park",
+      "state": "Florida",
+      "population": 50946
+    },
+    {
+      "city": "Grand Island",
+      "state": "Nebraska",
+      "population": 50895
+    },
+    {
+      "city": "Enid",
+      "state": "Oklahoma",
+      "population": 50891
+    },
+    {
+      "city": "Lakewood",
+      "state": "Ohio",
+      "population": 50866
+    },
+    {
+      "city": "East Hartford",
+      "state": "Connecticut",
+      "population": 50834
+    },
+    {
+      "city": "Tigard",
+      "state": "Oregon",
+      "population": 50787
+    },
+    {
+      "city": "Kentwood",
+      "state": "Michigan",
+      "population": 50761
+    },
+    {
+      "city": "Apple Valley",
+      "state": "Minnesota",
+      "population": 50602
+    },
+    {
+      "city": "Plainfield",
+      "state": "New Jersey",
+      "population": 50578
+    },
+    {
+      "city": "Grapevine",
+      "state": "Texas",
+      "population": 50538
+    },
+    {
+      "city": "Coral Gables",
+      "state": "Florida",
+      "population": 50533
+    },
+    {
+      "city": "Caldwell",
+      "state": "Idaho",
+      "population": 50288
+    },
+    {
+      "city": "Rowland Heights",
+      "state": "California",
+      "population": 50281
+    },
+    {
+      "city": "Aliso Viejo",
+      "state": "California",
+      "population": 50219
+    },
+    {
+      "city": "Charleston",
+      "state": "West Virginia",
+      "population": 50210
+    },
+    {
+      "city": "Burien",
+      "state": "Washington",
+      "population": 50187
+    },
+    {
+      "city": "Edina",
+      "state": "Minnesota",
+      "population": 49976
+    },
+    {
+      "city": "North Bethesda",
+      "state": "Maryland",
+      "population": 49971
+    },
+    {
+      "city": "Saginaw",
+      "state": "Michigan",
+      "population": 49892
+    },
+    {
+      "city": "Troy",
+      "state": "New York",
+      "population": 49881
+    },
+    {
+      "city": "Country Club",
+      "state": "Florida",
+      "population": 49815
+    },
+    {
+      "city": "Bonita Springs",
+      "state": "Florida",
+      "population": 49807
+    },
+    {
+      "city": "Cerritos",
+      "state": "California",
+      "population": 49797
+    },
+    {
+      "city": "Wheaton",
+      "state": "Maryland",
+      "population": 49764
+    },
+    {
+      "city": "Ashburn",
+      "state": "Virginia",
+      "population": 49692
+    },
+    {
+      "city": "Poway",
+      "state": "California",
+      "population": 49675
+    },
+    {
+      "city": "Olympia",
+      "state": "Washington",
+      "population": 49608
+    },
+    {
+      "city": "Wilson",
+      "state": "North Carolina",
+      "population": 49558
+    },
+    {
+      "city": "Downers Grove",
+      "state": "Illinois",
+      "population": 49555
+    },
+    {
+      "city": "Logan",
+      "state": "Utah",
+      "population": 49539
+    },
+    {
+      "city": "Florin",
+      "state": "California",
+      "population": 49486
+    },
+    {
+      "city": "Galveston",
+      "state": "Texas",
+      "population": 49443
+    },
+    {
+      "city": "Leesburg",
+      "state": "Virginia",
+      "population": 49401
+    },
+    {
+      "city": "Monroe",
+      "state": "Louisiana",
+      "population": 49361
+    },
+    {
+      "city": "Cuyahoga Falls",
+      "state": "Ohio",
+      "population": 49353
+    },
+    {
+      "city": "Niagara Falls",
+      "state": "New York",
+      "population": 49180
+    },
+    {
+      "city": "Harrisburg",
+      "state": "Pennsylvania",
+      "population": 49160
+    },
+    {
+      "city": "La Mirada",
+      "state": "California",
+      "population": 49130
+    },
+    {
+      "city": "Methuen Town",
+      "state": "Massachusetts",
+      "population": 49043
+    },
+    {
+      "city": "Rancho Santa Margarita",
+      "state": "California",
+      "population": 49038
+    },
+    {
+      "city": "Severn",
+      "state": "Maryland",
+      "population": 49017
+    },
+    {
+      "city": "Cypress",
+      "state": "California",
+      "population": 48978
+    },
+    {
+      "city": "McLean",
+      "state": "Virginia",
+      "population": 48867
+    },
+    {
+      "city": "Bedford",
+      "state": "Texas",
+      "population": 48864
+    },
+    {
+      "city": "Murray",
+      "state": "Utah",
+      "population": 48834
+    },
+    {
+      "city": "Sheboygan",
+      "state": "Wisconsin",
+      "population": 48813
+    },
+    {
+      "city": "Huntington",
+      "state": "West Virginia",
+      "population": 48735
+    },
+    {
+      "city": "Covina",
+      "state": "California",
+      "population": 48539
+    },
+    {
+      "city": "Middletown",
+      "state": "Ohio",
+      "population": 48527
+    },
+    {
+      "city": "Azusa",
+      "state": "California",
+      "population": 48498
+    },
+    {
+      "city": "Newark",
+      "state": "Ohio",
+      "population": 48477
+    },
+    {
+      "city": "Parker",
+      "state": "Colorado",
+      "population": 48442
+    },
+    {
+      "city": "Roswell",
+      "state": "New Mexico",
+      "population": 48407
+    },
+    {
+      "city": "East Lansing",
+      "state": "Michigan",
+      "population": 48395
+    },
+    {
+      "city": "Antelope",
+      "state": "California",
+      "population": 48325
+    },
+    {
+      "city": "Mishawaka",
+      "state": "Indiana",
+      "population": 48234
+    },
+    {
+      "city": "Dunwoody",
+      "state": "Georgia",
+      "population": 48128
+    },
+    {
+      "city": "Stillwater",
+      "state": "Oklahoma",
+      "population": 48104
+    },
+    {
+      "city": "Alexandria",
+      "state": "Louisiana",
+      "population": 48044
+    },
+    {
+      "city": "Collierville",
+      "state": "Tennessee",
+      "population": 48005
+    },
+    {
+      "city": "Tuckahoe",
+      "state": "Virginia",
+      "population": 47997
+    },
+    {
+      "city": "East Honolulu",
+      "state": "Hawaii",
+      "population": 47957
+    },
+    {
+      "city": "Summerville",
+      "state": "South Carolina",
+      "population": 47919
+    },
+    {
+      "city": "Euclid",
+      "state": "Ohio",
+      "population": 47863
+    },
+    {
+      "city": "Portage",
+      "state": "Michigan",
+      "population": 47854
+    },
+    {
+      "city": "Coeur d'Alene",
+      "state": "Idaho",
+      "population": 47842
+    },
+    {
+      "city": "Chesterfield",
+      "state": "Missouri",
+      "population": 47717
+    },
+    {
+      "city": "Salina",
+      "state": "Kansas",
+      "population": 47676
+    },
+    {
+      "city": "Roseville",
+      "state": "Michigan",
+      "population": 47606
+    },
+    {
+      "city": "St. Louis Park",
+      "state": "Minnesota",
+      "population": 47486
+    },
+    {
+      "city": "Bel Air South",
+      "state": "Maryland",
+      "population": 47480
+    },
+    {
+      "city": "Cedar Hill",
+      "state": "Texas",
+      "population": 47457
+    },
+    {
+      "city": "Lawrence",
+      "state": "Indiana",
+      "population": 47415
+    },
+    {
+      "city": "Wauwatosa",
+      "state": "Wisconsin",
+      "population": 47388
+    },
+    {
+      "city": "Minot",
+      "state": "North Dakota",
+      "population": 47338
+    },
+    {
+      "city": "East Providence",
+      "state": "Rhode Island",
+      "population": 47260
+    },
+    {
+      "city": "Pearl City",
+      "state": "Hawaii",
+      "population": 47241
+    },
+    {
+      "city": "Ceres",
+      "state": "California",
+      "population": 47231
+    },
+    {
+      "city": "Apopka",
+      "state": "Florida",
+      "population": 47023
+    },
+    {
+      "city": "Middletown",
+      "state": "Connecticut",
+      "population": 46933
+    },
+    {
+      "city": "Mansfield",
+      "state": "Ohio",
+      "population": 46902
+    },
+    {
+      "city": "Mentor",
+      "state": "Ohio",
+      "population": 46896
+    },
+    {
+      "city": "Hattiesburg",
+      "state": "Mississippi",
+      "population": 46846
+    },
+    {
+      "city": "North Highlands",
+      "state": "California",
+      "population": 46841
+    },
+    {
+      "city": "Texas City",
+      "state": "Texas",
+      "population": 46811
+    },
+    {
+      "city": "San Luis Obispo",
+      "state": "California",
+      "population": 46716
+    },
+    {
+      "city": "Palm Springs",
+      "state": "California",
+      "population": 46714
+    },
+    {
+      "city": "Twin Falls",
+      "state": "Idaho",
+      "population": 46623
+    },
+    {
+      "city": "Glenview",
+      "state": "Illinois",
+      "population": 46559
+    },
+    {
+      "city": "Columbus",
+      "state": "Indiana",
+      "population": 46474
+    },
+    {
+      "city": "Jeffersonville",
+      "state": "Indiana",
+      "population": 46415
+    },
+    {
+      "city": "Draper",
+      "state": "Utah",
+      "population": 46399
+    },
+    {
+      "city": "Madison",
+      "state": "Alabama",
+      "population": 46396
+    },
+    {
+      "city": "San Jacinto",
+      "state": "California",
+      "population": 46375
+    },
+    {
+      "city": "Binghamton",
+      "state": "New York",
+      "population": 46277
+    },
+    {
+      "city": "Trujillo Alto",
+      "state": "Puerto Rico",
+      "population": 46226
+    },
+    {
+      "city": "Beavercreek",
+      "state": "Ohio",
+      "population": 46086
+    },
+    {
+      "city": "Potomac",
+      "state": "Maryland",
+      "population": 45882
+    },
+    {
+      "city": "Elmhurst",
+      "state": "Illinois",
+      "population": 45742
+    },
+    {
+      "city": "Kannapolis",
+      "state": "North Carolina",
+      "population": 45685
+    },
+    {
+      "city": "Lincoln",
+      "state": "California",
+      "population": 45675
+    },
+    {
+      "city": "Wylie",
+      "state": "Texas",
+      "population": 45655
+    },
+    {
+      "city": "Lacey",
+      "state": "Washington",
+      "population": 45644
+    },
+    {
+      "city": "Hilo",
+      "state": "Hawaii",
+      "population": 45579
+    },
+    {
+      "city": "Charlottesville",
+      "state": "Virginia",
+      "population": 45538
+    },
+    {
+      "city": "Maricopa",
+      "state": "Arizona",
+      "population": 45473
+    },
+    {
+      "city": "Pine Bluff",
+      "state": "Arkansas",
+      "population": 45404
+    },
+    {
+      "city": "Smyrna",
+      "state": "Tennessee",
+      "population": 45369
+    },
+    {
+      "city": "Biloxi",
+      "state": "Mississippi",
+      "population": 45271
+    },
+    {
+      "city": "Altoona",
+      "state": "Pennsylvania",
+      "population": 45209
+    },
+    {
+      "city": "West Seneca",
+      "state": "New York",
+      "population": 45197
+    },
+    {
+      "city": "Cleveland Heights",
+      "state": "Ohio",
+      "population": 45160
+    },
+    {
+      "city": "Littleton",
+      "state": "Colorado",
+      "population": 45072
+    },
+    {
+      "city": "Altadena",
+      "state": "California",
+      "population": 45001
+    },
+    {
+      "city": "Titusville",
+      "state": "Florida",
+      "population": 44746
+    },
+    {
+      "city": "Lake Ridge",
+      "state": "Virginia",
+      "population": 44685
+    },
+    {
+      "city": "Newark",
+      "state": "California",
+      "population": 44677
+    },
+    {
+      "city": "Everett",
+      "state": "Massachusetts",
+      "population": 44636
+    },
+    {
+      "city": "Strongsville",
+      "state": "Ohio",
+      "population": 44622
+    },
+    {
+      "city": "West Lafayette",
+      "state": "Indiana",
+      "population": 44543
+    },
+    {
+      "city": "Barnstable Town",
+      "state": "Massachusetts",
+      "population": 44498
+    },
+    {
+      "city": "Arlington",
+      "state": "Massachusetts",
+      "population": 44408
+    },
+    {
+      "city": "Sierra Vista",
+      "state": "Arizona",
+      "population": 44381
+    },
+    {
+      "city": "Hackensack",
+      "state": "New Jersey",
+      "population": 44271
+    },
+    {
+      "city": "Sayreville",
+      "state": "New Jersey",
+      "population": 44260
+    },
+    {
+      "city": "Keller",
+      "state": "Texas",
+      "population": 44250
+    },
+    {
+      "city": "St. Cloud",
+      "state": "Florida",
+      "population": 44198
+    },
+    {
+      "city": "Attleboro",
+      "state": "Massachusetts",
+      "population": 44121
+    },
+    {
+      "city": "Farmington",
+      "state": "New Mexico",
+      "population": 44067
+    },
+    {
+      "city": "Lombard",
+      "state": "Illinois",
+      "population": 44025
+    },
+    {
+      "city": "Cutler Bay",
+      "state": "Florida",
+      "population": 44002
+    },
+    {
+      "city": "Blacksburg",
+      "state": "Virginia",
+      "population": 43973
+    },
+    {
+      "city": "Apex",
+      "state": "North Carolina",
+      "population": 43893
+    },
+    {
+      "city": "Fort Pierce",
+      "state": "Florida",
+      "population": 43883
+    },
+    {
+      "city": "Dublin",
+      "state": "Ohio",
+      "population": 43874
+    },
+    {
+      "city": "University",
+      "state": "Florida",
+      "population": 43871
+    },
+    {
+      "city": "Haltom City",
+      "state": "Texas",
+      "population": 43864
+    },
+    {
+      "city": "York",
+      "state": "Pennsylvania",
+      "population": 43848
+    },
+    {
+      "city": "Coachella",
+      "state": "California",
+      "population": 43826
+    },
+    {
+      "city": "Danville",
+      "state": "California",
+      "population": 43758
+    },
+    {
+      "city": "North Miami Beach",
+      "state": "Florida",
+      "population": 43722
+    },
+    {
+      "city": "El Centro",
+      "state": "California",
+      "population": 43699
+    },
+    {
+      "city": "Lompoc",
+      "state": "California",
+      "population": 43678
+    },
+    {
+      "city": "Oakland Park",
+      "state": "Florida",
+      "population": 43660
+    },
+    {
+      "city": "Pittsfield",
+      "state": "Massachusetts",
+      "population": 43632
+    },
+    {
+      "city": "El Dorado Hills",
+      "state": "California",
+      "population": 43495
+    },
+    {
+      "city": "Bountiful",
+      "state": "Utah",
+      "population": 43428
+    },
+    {
+      "city": "West Babylon",
+      "state": "New York",
+      "population": 43359
+    },
+    {
+      "city": "Cleveland",
+      "state": "Tennessee",
+      "population": 43276
+    },
+    {
+      "city": "DeKalb",
+      "state": "Illinois",
+      "population": 43269
+    },
+    {
+      "city": "Freeport",
+      "state": "New York",
+      "population": 43217
+    },
+    {
+      "city": "Annandale",
+      "state": "Virginia",
+      "population": 43158
+    },
+    {
+      "city": "Bothell",
+      "state": "Washington",
+      "population": 43153
+    },
+    {
+      "city": "Jefferson City",
+      "state": "Missouri",
+      "population": 43143
+    },
+    {
+      "city": "North Lauderdale",
+      "state": "Florida",
+      "population": 43087
+    },
+    {
+      "city": "Fond du Lac",
+      "state": "Wisconsin",
+      "population": 43018
+    },
+    {
+      "city": "Hicksville",
+      "state": "New York",
+      "population": 42856
+    },
+    {
+      "city": "Bell Gardens",
+      "state": "California",
+      "population": 42805
+    },
+    {
+      "city": "Moline",
+      "state": "Illinois",
+      "population": 42805
+    },
+    {
+      "city": "Salem",
+      "state": "Massachusetts",
+      "population": 42804
+    },
+    {
+      "city": "San Bruno",
+      "state": "California",
+      "population": 42736
+    },
+    {
+      "city": "Belleville",
+      "state": "Illinois",
+      "population": 42729
+    },
+    {
+      "city": "Fairfield",
+      "state": "Ohio",
+      "population": 42640
+    },
+    {
+      "city": "Concord",
+      "state": "New Hampshire",
+      "population": 42634
+    },
+    {
+      "city": "Altamonte Springs",
+      "state": "Florida",
+      "population": 42557
+    },
+    {
+      "city": "Burlington",
+      "state": "Vermont",
+      "population": 42556
+    },
+    {
+      "city": "Bentonville",
+      "state": "Arkansas",
+      "population": 42499
+    },
+    {
+      "city": "Rancho Palos Verdes",
+      "state": "California",
+      "population": 42412
+    },
+    {
+      "city": "Arecibo",
+      "state": "Puerto Rico",
+      "population": 42412
+    },
+    {
+      "city": "Oro Valley",
+      "state": "Arizona",
+      "population": 42379
+    },
+    {
+      "city": "Danville",
+      "state": "Virginia",
+      "population": 42360
+    },
+    {
+      "city": "Burke",
+      "state": "Virginia",
+      "population": 42290
+    },
+    {
+      "city": "Beaumont",
+      "state": "California",
+      "population": 42191
+    },
+    {
+      "city": "State College",
+      "state": "Pennsylvania",
+      "population": 42074
+    },
+    {
+      "city": "Midland",
+      "state": "Michigan",
+      "population": 42063
+    },
+    {
+      "city": "Kearny",
+      "state": "New Jersey",
+      "population": 42029
+    },
+    {
+      "city": "Catonsville",
+      "state": "Maryland",
+      "population": 42027
+    },
+    {
+      "city": "Burleson",
+      "state": "Texas",
+      "population": 41962
+    },
+    {
+      "city": "Urbana",
+      "state": "Illinois",
+      "population": 41941
+    },
+    {
+      "city": "Rohnert Park",
+      "state": "California",
+      "population": 41928
+    },
+    {
+      "city": "Plainfield",
+      "state": "Illinois",
+      "population": 41881
+    },
+    {
+      "city": "Morgan Hill",
+      "state": "California",
+      "population": 41839
+    },
+    {
+      "city": "Bozeman",
+      "state": "Montana",
+      "population": 41761
+    },
+    {
+      "city": "Rockwall",
+      "state": "Texas",
+      "population": 41672
+    },
+    {
+      "city": "Hutchinson",
+      "state": "Kansas",
+      "population": 41661
+    },
+    {
+      "city": "Linden",
+      "state": "New Jersey",
+      "population": 41595
+    },
+    {
+      "city": "Waipahu",
+      "state": "Hawaii",
+      "population": 41590
+    },
+    {
+      "city": "Urbandale",
+      "state": "Iowa",
+      "population": 41578
+    },
+    {
+      "city": "Buffalo Grove",
+      "state": "Illinois",
+      "population": 41554
+    },
+    {
+      "city": "Riverton",
+      "state": "Utah",
+      "population": 41521
+    },
+    {
+      "city": "Westfield",
+      "state": "Massachusetts",
+      "population": 41486
+    },
+    {
+      "city": "Bartlett",
+      "state": "Illinois",
+      "population": 41475
+    },
+    {
+      "city": "Findlay",
+      "state": "Ohio",
+      "population": 41412
+    },
+    {
+      "city": "South Valley",
+      "state": "New Mexico",
+      "population": 41397
+    }
+  ]
 }
 
 function getRandomCity() {
-	var randomCityIndex = Math.floor(Math.random() * 50)
-	var randomCity = cities.capitals[randomCityIndex].capital
-	return randomCity
+    var randomCityIndex = Math.floor(Math.random() * 50)
+    var randomCity = cities.cities[randomCityIndex].city
+    return randomCity
 }
 
 function getRandomElement() {
-	function toTitleCase(str) {
-	    return str.replace(/\w\S*/g, function(txt){
-	        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-	    });
-	}
+    function toTitleCase(str) {
+        return str.replace(/\w\S*/g, function(txt){
+            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+        });
+    }
 
-	var randomArray = Math.floor(Math.random() * data.length)
-	var randomSubArrayIndex = Math.floor(Math.random() * data[randomArray].length)
-	var randomElement = data[randomArray][randomSubArrayIndex]
-	randomElement = toTitleCase(randomElement)
-	return randomElement
+    var randomArray = Math.floor(Math.random() * data.length)
+    var randomSubArrayIndex = Math.floor(Math.random() * data[randomArray].length)
+    var randomElement = data[randomArray][randomSubArrayIndex]
+    randomElement = toTitleCase(randomElement)
+    return randomElement
 
 }
 
 function update() {
-	document.getElementById("nickname").innerHTML = getRandomElement();
-	document.getElementById("mascot").innerHTML = getRandomElement();
-	document.getElementById("city").innerHTML = getRandomCity();
+    document.getElementById("nickname").innerHTML = getRandomElement();
+    document.getElementById("mascot").innerHTML = getRandomElement();
+    document.getElementById("city").innerHTML = getRandomCity();
 }
 
 update()
